@@ -42,3 +42,4 @@ C:\Users\SRDJAN\OneDrive\Cetvrta godina\Modeli podataka\Posle blokada\Projekat_2
 C:\Users\SRDJAN\OneDrive\Cetvrta godina\Modeli podataka\Posle blokada\Projekat_2024_25\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\obj\x86\Debug\NMSTestC.9FB1C9DD.Up2Date
 C:\Users\SRDJAN\OneDrive\Cetvrta godina\Modeli podataka\Posle blokada\Projekat_2024_25\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\obj\x86\Debug\NMSTestClient.exe
 C:\Users\SRDJAN\OneDrive\Cetvrta godina\Modeli podataka\Posle blokada\Projekat_2024_25\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\obj\x86\Debug\NMSTestClient.pdb
+C:\Users\SRDJAN\OneDrive\Cetvrta godina\Modeli podataka\Posle blokada\Projekat_2024_25\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\obj\x86\Debug\NMSTestClient.exe.config

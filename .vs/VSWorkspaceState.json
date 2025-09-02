@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CIMAdapter",
+    "\\CIMAdapter\\Importer"
   ],
-  "SelectedNode": "\\ModelLabs.sln",
+  "SelectedNode": "\\CIMAdapter\\Importer\\FTN11_ProfileConverter.cs",
   "PreviewInSolutionExplorer": false
 }

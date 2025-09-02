@@ -95,7 +95,8 @@ namespace FTN.Services.NetworkModelService.DataModel.Core
         {
             switch (referenceId)
             {
-                case ModelCode.IISCHEDULE_TIMEPOINTS:
+                case ModelCode.IISCHEDULE_TIMEPOINTS:   // target-lista (već imaš)
+                case ModelCode.ITP_INTERVALSCHEDULE:    // referenca sa izvora
                     timePoints.Add(globalId);
                     break;
 
@@ -121,6 +122,8 @@ namespace FTN.Services.NetworkModelService.DataModel.Core
                     }
 
                     break;
+
+
                 default:
                     base.RemoveReference(referenceId, globalId);
                     break;

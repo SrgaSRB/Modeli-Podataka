@@ -1,0 +1,118 @@
+﻿<delta id="0">
+  <operations>
+    <operation type="insert">
+      <ResourceDescriptions count="8">
+        <ResourceDescription>
+          <id gid="0x00000004ffffffff" type="CURVE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="CUR1" />
+            <Property id="IDOBJ_NAME" value="Volt-Var Constant" />
+            <Property id="IDOBJ_ALIASNAME" value="Volt-Var Const" />
+            <Property id="CURVE_CSTYLE" value="Unknown" />
+            <Property id="CURVE_XMP" value="n" />
+            <Property id="CURVE_XUNIT" value="m" />
+            <Property id="CURVE_Y1MP" value="n" />
+            <Property id="CURVE_Y1UNIT" value="m" />
+            <Property id="CURVE_Y2MP" value="c" />
+            <Property id="CURVE_Y2UNIT" value="Unknown" />
+            <Property id="CURVE_Y3MP" value="d" />
+            <Property id="CURVE_Y3UNIT" value="W" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004fffffffe" type="CURVE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="CUR2" />
+            <Property id="IDOBJ_NAME" value="Frequency Response" />
+            <Property id="IDOBJ_ALIASNAME" value="Freq-Resp" />
+            <Property id="CURVE_CSTYLE" value="ConstantYValue" />
+            <Property id="CURVE_XMP" value="c" />
+            <Property id="CURVE_XUNIT" value="a" />
+            <Property id="CURVE_Y1MP" value="n" />
+            <Property id="CURVE_Y1UNIT" value="Unknown" />
+            <Property id="CURVE_Y2MP" value="n" />
+            <Property id="CURVE_Y2UNIT" value="W" />
+            <Property id="CURVE_Y3MP" value="n" />
+            <Property id="CURVE_Y3UNIT" value="W" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004fffffffd" type="CURVE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="CUR3" />
+            <Property id="IDOBJ_NAME" value="Time-Power Curve" />
+            <Property id="IDOBJ_ALIASNAME" value="Time-Power" />
+            <Property id="CURVE_CSTYLE" value="RampYValue" />
+            <Property id="CURVE_XMP" value="n" />
+            <Property id="CURVE_XUNIT" value="g" />
+            <Property id="CURVE_Y1MP" value="n" />
+            <Property id="CURVE_Y1UNIT" value="ohm" />
+            <Property id="CURVE_Y2MP" value="n" />
+            <Property id="CURVE_Y2UNIT" value="W" />
+            <Property id="CURVE_Y3MP" value="n" />
+            <Property id="CURVE_Y3UNIT" value="W" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005ffffffff" type="OUTAGESCH" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="OUT1" />
+            <Property id="IDOBJ_NAME" value="Transf-Outage" />
+            <Property id="IDOBJ_ALIASNAME" value="Transformer Maint." />
+            <Property id="BSCINTSCHEDULE_STARTTIME" value="638843688000000000" />
+            <Property id="BSCINTSCHEDULE_V1MULTIPLIER" value="n" />
+            <Property id="BSCINTSCHEDULE_V1UNIT" value="W" />
+            <Property id="BSCINTSCHEDULE_V2MULTIPLIER" value="n" />
+            <Property id="BSCINTSCHEDULE_V2UNIT" value="W" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002ffffffff" type="SO" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="SO1" />
+            <Property id="IDOBJ_NAME" value="Open-Switch" />
+            <Property id="IDOBJ_ALIASNAME" value="Op-Switch" />
+            <Property id="SO_NEWSTATE" value="Close" />
+            <Property id="SO_OPERATIONTIME" value="638843760000000000" />
+            <Property id="SO_OUTAGESCHEDULE" value="0x00000005ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002fffffffe" type="SO" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="SO2" />
+            <Property id="IDOBJ_NAME" value="Close-Switch" />
+            <Property id="IDOBJ_ALIASNAME" value="Cl-Switch" />
+            <Property id="SO_NEWSTATE" value="Unknown" />
+            <Property id="SO_OPERATIONTIME" value="638843832000000000" />
+            <Property id="SO_OUTAGESCHEDULE" value="0x00000005ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000001ffffffff" type="ITP" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="TP1" />
+            <Property id="IDOBJ_NAME" value="Point-1" />
+            <Property id="IDOBJ_ALIASNAME" value="Hour-1" />
+            <Property id="ITP_TIME" value="3600" />
+            <Property id="ITP_VALUE1" value="0.8" />
+            <Property id="ITP_VALUE2" value="0" />
+            <Property id="ITP_INTERVALSCHEDULE" value="0x00000005ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000001fffffffe" type="ITP" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="TP2" />
+            <Property id="IDOBJ_NAME" value="Point-2" />
+            <Property id="IDOBJ_ALIASNAME" value="Hour-2" />
+            <Property id="ITP_TIME" value="7200" />
+            <Property id="ITP_VALUE1" value="0.5" />
+            <Property id="ITP_VALUE2" value="0" />
+            <Property id="ITP_INTERVALSCHEDULE" value="0x00000005ffffffff" />
+          </Properties>
+        </ResourceDescription>
+      </ResourceDescriptions>
+    </operation>
+  </operations>
+</delta>

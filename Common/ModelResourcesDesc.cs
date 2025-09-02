@@ -874,6 +874,7 @@ namespace FTN.Common
 			typeIdsInInsertOrder.Add(ModelCode.WINDINGTEST);	
 			*/
 
+            /*
             // čisti listu (ako nije prazan singleton)
             //typeIdsInInsertOrder.Clear();
 
@@ -916,15 +917,27 @@ namespace FTN.Common
             // typeIdsInInsertOrder.Add(ModelCode.TRANSFORMERWINDING);
             // typeIdsInInsertOrder.Add(ModelCode.WINDINGTEST);
             // typeIdsInInsertOrder.Add(ModelCode.TERMINAL);
+			*/
+
+            typeIdsInInsertOrder.Add(ModelCode.CURVE);
+            typeIdsInInsertOrder.Add(ModelCode.CURVEDATA);
+
+            typeIdsInInsertOrder.Add(ModelCode.OUTAGESCH);
+            typeIdsInInsertOrder.Add(ModelCode.ITP);
+
+            typeIdsInInsertOrder.Add(ModelCode.SO);
+            
+			typeIdsInInsertOrder.Add(ModelCode.GNDDISC);
+
         }
 
 		private void InitializeNotSettablePropertyIds()
 		{			
-			notSettablePropertyIds.Add(ModelCode.IDOBJ_GID);
-			notSettablePropertyIds.Add(ModelCode.BASEVOLTAGE_CONDEQS);
-			notSettablePropertyIds.Add(ModelCode.LOCATION_PSRS);
-			notSettablePropertyIds.Add(ModelCode.POWERTRWINDING_TESTS);
-            notSettablePropertyIds.Add(ModelCode.POWERTR_WINDINGS);	
+			//notSettablePropertyIds.Add(ModelCode.IDOBJ_GID);
+			notSettablePropertyIds.Add(ModelCode.CURVE_CURVEDATAS);
+			notSettablePropertyIds.Add(ModelCode.SO_SWITCHES);
+			notSettablePropertyIds.Add(ModelCode.OUTAGESCH_SWIOPR); 
+			notSettablePropertyIds.Add(ModelCode.IISCHEDULE_TIMEPOINTS); 
 		}
 	
 		# endregion Initialization of metadata

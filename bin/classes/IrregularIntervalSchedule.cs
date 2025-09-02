@@ -20,7 +20,7 @@ namespace FTN {
         /// The point data values that define a curve.
         private List<IrregularTimePoint> cim_TimePoints = new List<IrregularTimePoint>();
         
-        private const bool isTimePointsMandatory = true;
+        private const bool isTimePointsMandatory = false;
         
         private const string _TimePointsPrefix = "cim";
         

@@ -18,6 +18,8 @@ namespace FTN.Services.NetworkModelService.DataModel.Core
         private UnitMultiplier y3Multiplier;
         private UnitSymbol y3Unit;
 
+        private List<long> curveDatas = new List<long>();
+
         public Curve(long globalId) : base(globalId)
         {
         }
@@ -76,6 +78,12 @@ namespace FTN.Services.NetworkModelService.DataModel.Core
             set { y3Unit = value; }
         }
 
+        public List<long> CurveDatas
+        {
+            get { return curveDatas; }
+            set { curveDatas = value; }
+        }
+
         public override bool Equals(object obj)
         {
             if (base.Equals(obj))
@@ -115,6 +123,7 @@ namespace FTN.Services.NetworkModelService.DataModel.Core
                 case ModelCode.CURVE_Y1UNIT:
                 case ModelCode.CURVE_Y2UNIT:
                 case ModelCode.CURVE_Y3UNIT:
+                case ModelCode.CURVE_CURVEDATAS:
                     return true;
 
                 default:
@@ -160,6 +169,9 @@ namespace FTN.Services.NetworkModelService.DataModel.Core
 
                 case ModelCode.CURVE_Y3UNIT:
                     prop.SetValue((short)y3Unit);
+                    break;
+                case ModelCode.CURVE_CURVEDATAS:
+                    prop.SetValue(curveDatas);
                     break;
 
                 default:
@@ -213,5 +225,50 @@ namespace FTN.Services.NetworkModelService.DataModel.Core
                     break;
             }
         }
+
+        public override void GetReferences(Dictionary<ModelCode, List<long>> references, TypeOfReference refType)
+        {
+
+            if (curveDatas != null && curveDatas.Count != 0 && (refType == TypeOfReference.Target || refType == TypeOfReference.Both))
+            {
+                references[ModelCode.CURVE_CURVEDATAS] = curveDatas.GetRange(0, curveDatas.Count);
+            }
+            base.GetReferences(references, refType);
+        }
+
+        public override void AddReference(ModelCode referenceId, long globalId)
+        {
+            switch (referenceId)
+            {
+                case ModelCode.CURVEDATA_CURVE:
+                    curveDatas.Add(globalId);
+                    break;
+
+                default:
+                    base.AddReference(referenceId, globalId);
+                    break;
+            }
+        }
+
+        public override void RemoveReference(ModelCode referenceId, long globalId)
+        {
+            switch (referenceId)
+            {
+                case ModelCode.CURVEDATA_CURVE:
+                    if (curveDatas.Contains(globalId))
+                    {
+                        curveDatas.Remove(globalId);
+                    }
+                    else
+                    {
+                        CommonTrace.WriteTrace(CommonTrace.TraceWarning, "Entity (GID = 0x{0:x16}) doesn't contain reference 0x{1:x16}.", this.GlobalId, globalId);
+                    }
+                    break;
+                default:
+                    base.RemoveReference(referenceId, globalId);
+                    break;
+            }
+        }
+
     }
 }

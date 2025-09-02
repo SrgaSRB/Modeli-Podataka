@@ -353,8 +353,8 @@ namespace FTN.Services.NetworkModelService
 
 								if (!EntityExists(targetGlobalId))
 								{
-									string message = string.Format("Failed to get target entity with GID: 0x{0:X16}. {1}", targetGlobalId);
-									throw new Exception(message);
+                                    string message = $"Failed to get target entity with GID: 0x{targetGlobalId:X16} for reference {property.Id} on source 0x{io.GlobalId:X16}.";
+                                    throw new Exception(message);
 								}
 
 								// get referenced entity for update

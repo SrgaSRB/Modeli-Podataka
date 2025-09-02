@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ModelLabsApp\\ModelLabsApp.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "GUI\\GUI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

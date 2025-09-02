@@ -19,9 +19,9 @@ namespace FTN.Services.NetworkModelService.TestClient
 		[STAThread]
 		public static void Main(string[] args)
 		{	
-			ModelResourcesDesc resDesc = new ModelResourcesDesc();					
+			ModelResourcesDesc resDesc = new ModelResourcesDesc();
 
-			try
+            try
 			{
 				// Set NMSTestInterfaceClient console layout
 				Console.SetWindowPosition(0, 0);

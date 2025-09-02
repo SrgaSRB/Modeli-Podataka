@@ -1,0 +1,436 @@
+10.8.2025. 21:54:51 : Network Model Service Test Client is up and running...
+10.8.2025. 21:54:51 : Result directory: ../Results
+10.8.2025. 21:55:25 : Getting values method started.
+10.8.2025. 21:55:25 : Failed to get model type code for DMS type: 0. Invalid DMS type
+10.8.2025. 21:55:25 : Getting values method for entered id = 1585267068834676736 failed.
+	Failed to get model type code for DMS type: 0. Invalid DMS type
+10.8.2025. 21:55:36 : Apply update method started.
+10.8.2025. 21:55:40 : Apply update method failed. Could not connect to net.tcp://localhost:10000/NetworkModelService/GDA/. The connection attempt lasted for a time span of 00:00:04.0807526. TCP error code 10061: No connection could be made because the target machine actively refused it 127.0.0.1:10000. 
+
+30.8.2025. 00:45:15 : Network Model Service Test Client is up and running...
+30.8.2025. 00:45:15 : Result directory: ../Results
+30.8.2025. 00:46:46 : Getting values method started.
+30.8.2025. 00:46:46 : Failed to get model type code for DMS type: 0. Invalid DMS type
+30.8.2025. 00:46:46 : Getting values method for entered id = 2 failed.
+	Failed to get model type code for DMS type: 0. Invalid DMS type
+30.8.2025. 00:46:51 : Getting extent values method started.
+30.8.2025. 00:46:51 : Getting extent values method failed for 3.
+	Invalid Model Code: 3
+30.8.2025. 00:47:01 : Getting related values method started.
+30.8.2025. 00:47:06 : Getting related values method  failed for sourceGlobalId = 3 and association (propertyId = 4, type = 4). Reason: Could not connect to net.tcp://localhost:10000/NetworkModelService/GDA/. The connection attempt lasted for a time span of 00:00:04.0678877. TCP error code 10061: No connection could be made because the target machine actively refused it 127.0.0.1:10000. 
+30.8.2025. 00:47:06 : Apply update method started.
+31.8.2025. 23:03:09 : Network Model Service Test Client is up and running...
+31.8.2025. 23:03:09 : Result directory: ../Results
+31.8.2025. 23:03:29 : Getting values method started.
+31.8.2025. 23:03:29 : Failed to get model type code for DMS type: 0. Invalid DMS type
+31.8.2025. 23:03:29 : Getting values method for entered id = 123 failed.
+	Failed to get model type code for DMS type: 0. Invalid DMS type
+1.9.2025. 01:29:07 : Network Model Service Test Client is up and running...
+1.9.2025. 01:29:07 : Result directory: ../Results
+1.9.2025. 14:43:31 : Network Model Service Test Client is up and running...
+1.9.2025. 14:43:31 : Result directory: ../Results
+1.9.2025. 15:01:40 : Network Model Service Test Client is up and running...
+1.9.2025. 15:01:40 : Result directory: ../Results
+1.9.2025. 15:01:55 : Getting values method started.
+1.9.2025. 15:01:59 : Getting values method for entered id = 25769803775 failed.
+	Getting values for resource with ID = 0x00000005ffffffff failed. Failed to get values for entity with GID = 0x00000005ffffffff. Entity  (GID = 0x00000005ffffffff) does not exist.
+1.9.2025. 15:02:17 : Getting values method started.
+1.9.2025. 15:02:19 : Getting values method for entered id = 21474836478 failed.
+	Getting values for resource with ID = 0x00000004fffffffe failed. Failed to get values for entity with GID = 0x00000004fffffffe. Entity  (GID = 0x00000004fffffffe) does not exist.
+1.9.2025. 15:14:27 : Network Model Service Test Client is up and running...
+1.9.2025. 15:14:27 : Result directory: ../Results
+1.9.2025. 15:15:05 : Apply update method started.
+1.9.2025. 15:15:14 : Apply update method finished. 
+Update result: Failed
+Message: Applying delta to network model failed. Failed to insert entity (GID = 0x0000000500000001) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000001)..
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000005
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000001
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x000000040000000d
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000001
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+
+1.9.2025. 15:15:33 : Apply update method started.
+1.9.2025. 15:15:42 : Apply update method finished. 
+Update result: Failed
+Message: Applying delta to network model failed. Failed to insert entity (GID = 0x0000000500000002) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000002)..
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000006
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000002
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x000000040000000e
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000002
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+
+1.9.2025. 15:15:48 : Apply update method started.
+1.9.2025. 15:17:31 : Apply update method finished. 
+Update result: Failed
+Message: Applying delta to network model failed. Failed to insert entity (GID = 0x0000000500000003) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000003)..
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000007
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000003
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x000000040000000f
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000003
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+
+1.9.2025. 15:17:36 : Apply update method started.
+1.9.2025. 15:18:12 : Apply update method finished. 
+Update result: Failed
+Message: Applying delta to network model failed. Failed to insert entity (GID = 0x0000000500000004) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000004)..
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000008
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000004
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000010
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000004
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+
+1.9.2025. 15:18:29 : Apply update method started.
+1.9.2025. 15:26:22 : Apply update method finished. 
+Update result: Failed
+Message: Applying delta to network model failed. Failed to insert entity (GID = 0x0000000500000005) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000005)..
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000009
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000005
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000011
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000005
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+
+1.9.2025. 15:26:22 : Apply update method started.
+1.9.2025. 15:26:22 : Apply update method finished. 
+Update result: Failed
+Message: Applying delta to network model failed. Failed to insert entity (GID = 0x0000000500000006) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000006)..
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x000000020000000b
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000006
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000015
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000006
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+
+1.9.2025. 15:26:24 : Apply update method started.
+1.9.2025. 15:26:24 : Apply update method finished. 
+Update result: Failed
+Message: Applying delta to network model failed. Failed to insert entity (GID = 0x0000000500000007) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000007)..
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x000000020000000c
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000007
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000016
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000007
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+
+1.9.2025. 15:26:28 : Apply update method started.
+1.9.2025. 15:26:28 : Apply update method finished. 
+Update result: Failed
+Message: Applying delta to network model failed. Failed to insert entity (GID = 0x0000000500000008) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000008)..
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x000000020000000d
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000008
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000017
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000008
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+
+1.9.2025. 15:26:29 : Apply update method started.
+1.9.2025. 15:26:29 : Apply update method finished. 
+Update result: Failed
+Message: Applying delta to network model failed. Failed to insert entity (GID = 0x0000000500000009) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000009)..
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x000000020000000e
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000009
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000018
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000009
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+
+1.9.2025. 15:26:29 : Apply update method started.
+1.9.2025. 15:26:29 : Apply update method finished. 
+Update result: Failed
+Message: Applying delta to network model failed. Failed to insert entity (GID = 0x000000050000000a) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000a)..
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x000000020000000f
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x000000030000000a
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000019
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x000000050000000a
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+
+1.9.2025. 15:26:34 : Network Model Service Test Client stopped.
+1.9.2025. 15:26:43 : Network Model Service Test Client is up and running...
+1.9.2025. 15:26:43 : Result directory: ../Results
+1.9.2025. 15:26:47 : Apply update method started.
+1.9.2025. 15:26:47 : Apply update method finished. 
+Update result: Failed
+Message: Applying delta to network model failed. Failed to insert entity (GID = 0x000000050000000b) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000b)..
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000010
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x000000030000000b
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x000000040000001a
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x000000050000000b
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+
+1.9.2025. 15:26:50 : Apply update method started.
+1.9.2025. 15:26:50 : Apply update method finished. 
+Update result: Failed
+Message: Applying delta to network model failed. Failed to insert entity (GID = 0x000000050000000c) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000c)..
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000011
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x000000030000000c
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x000000040000001b
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x000000050000000c
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+
+1.9.2025. 15:30:37 : Network Model Service Test Client is up and running...
+1.9.2025. 15:30:37 : Result directory: ../Results
+1.9.2025. 15:30:39 : Apply update method started.
+1.9.2025. 15:30:39 : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000012
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x000000030000000d
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x000000040000001c
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x000000050000000d
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+
+1.9.2025. 15:30:57 : Getting values method started.
+1.9.2025. 15:31:04 : Getting values method for entered id = 8589934591 failed.
+	Getting values for resource with ID = 0x00000001ffffffff failed. Failed to get values for entity with GID = 0x00000001ffffffff. Entity  (GID = 0x00000001ffffffff) does not exist.
+1.9.2025. 15:31:16 : Entering entity id failed. Please use hex (0x) or decimal format.
+1.9.2025. 15:31:16 : GetValues failed. Input string was not in a correct format.
+1.9.2025. 15:31:31 : Getting values method started.
+1.9.2025. 15:31:31 : Getting values method successfully finished.
+1.9.2025. 15:42:59 : Network Model Service Test Client is up and running...
+1.9.2025. 15:42:59 : Result directory: ../Results
+1.9.2025. 15:43:06 : Apply update method started.
+1.9.2025. 15:43:06 : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000002
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000013
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x000000030000000e
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x000000040000001d
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x000000050000000e
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000002
+
+1.9.2025. 15:43:09 : Apply update method started.
+1.9.2025. 15:43:09 : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000003
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000014
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x000000030000000f
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x000000040000001e
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x000000050000000f
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000003
+
+1.9.2025. 15:43:10 : Apply update method started.
+1.9.2025. 15:43:10 : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000004
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000015
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000010
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x000000040000001f
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000010
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000004
+
+1.9.2025. 15:43:11 : Apply update method started.
+1.9.2025. 15:43:11 : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000005
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000016
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000011
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000020
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000011
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000005
+
+1.9.2025. 15:43:28 : Network Model Service Test Client is up and running...
+1.9.2025. 15:43:28 : Result directory: ../Results
+1.9.2025. 15:43:30 : Apply update method started.
+1.9.2025. 15:43:30 : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000006
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000017
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000012
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000021
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000012
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000006
+
+1.9.2025. 15:43:42 : Apply update method started.
+1.9.2025. 15:43:42 : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000007
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000018
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000013
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000022
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000013
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000007
+
+1.9.2025. 15:43:56 : Apply update method started.
+1.9.2025. 15:43:56 : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000008
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000019
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000014
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000023
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000014
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000008
+
+1.9.2025. 15:44:24 : Getting values method started.
+1.9.2025. 15:44:27 : Getting values method for entered id = 8589934591 failed.
+	Getting values for resource with ID = 0x00000001ffffffff failed. Failed to get values for entity with GID = 0x00000001ffffffff. Entity  (GID = 0x00000001ffffffff) does not exist.
+1.9.2025. 15:44:36 : Getting values method started.
+1.9.2025. 15:44:36 : Getting values method successfully finished.
+1.9.2025. 15:50:29 : Apply update method started.
+1.9.2025. 15:56:59 : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000009
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x000000020000001a
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000015
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000024
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000015
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000009
+
+1.9.2025. 15:57:26 : Network Model Service Test Client is up and running...
+1.9.2025. 15:57:26 : Result directory: ../Results
+1.9.2025. 15:58:58 : Network Model Service Test Client is up and running...
+1.9.2025. 15:58:58 : Result directory: ../Results
+1.9.2025. 16:09:59 : Network Model Service Test Client is up and running...
+1.9.2025. 16:09:59 : Result directory: ../Results
+1.9.2025. 16:10:35 : Getting values method started.
+1.9.2025. 16:10:38 : Getting values method for entered id = 17179869230 failed.
+	Getting values for resource with ID = 0x000000040000002e failed. Failed to get values for entity with GID = 0x000000040000002e. Unknown property id = CURVE_CURVEDATAS for entity (GID = 0x000000040000002e).
+1.9.2025. 16:10:46 : Getting values method started.
+1.9.2025. 16:10:48 : Getting values method for entered id = 21474836479 failed.
+	Getting values for resource with ID = 0x00000004ffffffff failed. Failed to get values for entity with GID = 0x00000004ffffffff. Entity  (GID = 0x00000004ffffffff) does not exist.
+1.9.2025. 16:10:58 : Getting extent values method started.
+1.9.2025. 16:10:58 : Getting extent values method failed for 123.
+	Invalid Model Code: 123
+1.9.2025. 16:11:10 : Getting related values method started.
+1.9.2025. 16:11:10 : Getting related values method  failed for sourceGlobalId = 21474836479 and association (propertyId = 123, type = 123). Reason: There was an error while trying to serialize parameter http://tempuri.org/:association. The InnerException message was 'Enum value '123' is invalid for type 'FTN.Common.ModelCode' and cannot be serialized. Ensure that the necessary enum values are present and are marked with EnumMemberAttribute attribute if the type has DataContractAttribute attribute.'.  Please see InnerException for more details.
+1.9.2025. 16:12:16 : Network Model Service Test Client is up and running...
+1.9.2025. 16:12:16 : Result directory: ../Results
+1.9.2025. 16:13:26 : Network Model Service Test Client is up and running...
+1.9.2025. 16:13:26 : Result directory: ../Results
+1.9.2025. 20:26:46 : Network Model Service Test Client is up and running...
+1.9.2025. 20:26:46 : Result directory: ../Results
+1.9.2025. 21:03:02 : Network Model Service Test Client is up and running...
+1.9.2025. 21:03:02 : Result directory: ../Results
+1.9.2025. 21:20:06 : Entering entity id failed. Please use hex (0x) or decimal format.
+1.9.2025. 21:20:06 : GetValues failed. Input string was not in a correct format.
+1.9.2025. 21:20:12 : Getting extent values method started.
+1.9.2025. 21:20:20 : Getting extent values method failed for CURVE.
+	IteratorNext failed. Iterator ID = 1. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000400000001. Unknown property id = CURVE_CURVEDATAS for entity (GID = 0x0000000400000001). 
+1.9.2025. 21:20:44 : Getting extent values method started.
+1.9.2025. 21:20:44 : Getting extent values method failed for 17179869266.
+	Invalid Model Code: 17179869266
+1.9.2025. 21:20:51 : Getting values method started.
+1.9.2025. 21:21:10 : Getting values method for entered id = 17179869266 failed.
+	Getting values for resource with ID = 0x0000000400000052 failed. Failed to get values for entity with GID = 0x0000000400000052. Unknown property id = CURVE_CURVEDATAS for entity (GID = 0x0000000400000052).
+1.9.2025. 21:21:21 : Getting values method started.
+1.9.2025. 21:21:23 : Getting values method for entered id = 21474836502 failed.
+	Getting values for resource with ID = 0x0000000500000016 failed. Failed to get values for entity with GID = 0x0000000500000016. Failed to set value for property (IISCHEDULE_TIMEPOINTS) because specified vector value is not compatible with property type (Reference).
+1.9.2025. 21:21:35 : Getting values method started.
+1.9.2025. 21:21:38 : Getting values method for entered id = 21474836479 failed.
+	Getting values for resource with ID = 0x00000004ffffffff failed. Failed to get values for entity with GID = 0x00000004ffffffff. Entity  (GID = 0x00000004ffffffff) does not exist.
+1.9.2025. 21:25:01 : Getting extent values method started.
+1.9.2025. 21:36:14 : Getting extent values method failed for CURVE.
+	IteratorNext failed. Iterator ID = 2. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000400000001. Unknown property id = CURVE_CURVEDATAS for entity (GID = 0x0000000400000001). 
+1.9.2025. 21:36:19 : Getting extent values method started.
+1.9.2025. 21:37:27 : Getting extent values method failed for CURVE.
+	IteratorNext failed. Iterator ID = 3. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000400000001. Unknown property id = CURVE_CURVEDATAS for entity (GID = 0x0000000400000001). 
+1.9.2025. 21:37:31 : Getting extent values method started.
+1.9.2025. 21:37:46 : Getting extent values method failed for CURVE.
+	IteratorNext failed. Iterator ID = 4. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000400000001. Unknown property id = CURVE_CURVEDATAS for entity (GID = 0x0000000400000001). 
+1.9.2025. 21:37:52 : Getting extent values method started.
+1.9.2025. 21:38:04 : Getting extent values method failed for CURVE.
+	IteratorNext failed. Iterator ID = 5. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000400000001. Unknown property id = CURVE_CURVEDATAS for entity (GID = 0x0000000400000001). 
+1.9.2025. 21:38:08 : Getting extent values method started.
+1.9.2025. 21:39:20 : Getting extent values method failed for CURVE.
+	IteratorNext failed. Iterator ID = 6. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000400000001. Unknown property id = CURVE_CURVEDATAS for entity (GID = 0x0000000400000001). 
+1.9.2025. 21:39:27 : Getting extent values method started.
+1.9.2025. 21:41:27 : Getting extent values method failed for CURVE.
+	IteratorNext failed. Iterator ID = 7. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000400000001. Unknown property id = CURVE_CURVEDATAS for entity (GID = 0x0000000400000001). 
+1.9.2025. 22:55:28 : Network Model Service Test Client is up and running...
+1.9.2025. 22:55:28 : Result directory: ../Results
+1.9.2025. 22:55:36 : Getting extent values method started.
+1.9.2025. 22:55:52 : Getting extent values method successfully finished.
+1.9.2025. 23:00:35 : Getting extent values method started.
+1.9.2025. 23:01:13 : Getting extent values method successfully finished.
+1.9.2025. 23:03:01 : Getting values method started.
+1.9.2025. 23:03:28 : Getting values method successfully finished.
+1.9.2025. 23:04:11 : Apply update method started.
+1.9.2025. 23:04:17 : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000015
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000026
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000016
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000055
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000017
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x000000060000000a
+
+1.9.2025. 23:43:07 : Network Model Service Test Client is up and running...
+1.9.2025. 23:43:07 : Result directory: ../Results
+1.9.2025. 23:44:57 : Network Model Service Test Client is up and running...
+1.9.2025. 23:44:57 : Result directory: ../Results
+1.9.2025. 23:45:04 : Apply update method started.
+1.9.2025. 23:45:04 : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000016
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000027
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000017
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000056
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000018
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x000000060000000b
+
+1.9.2025. 23:45:05 : Apply update method started.
+1.9.2025. 23:45:05 : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000017
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000028
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000018
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000057
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000019
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x000000060000000c
+
+1.9.2025. 23:45:06 : Apply update method started.
+1.9.2025. 23:45:06 : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000018
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000029
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000019
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000058
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x000000050000001a
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x000000060000000d
+
+2.9.2025. 01:46:09 : Network Model Service Test Client is up and running...
+2.9.2025. 01:46:09 : Result directory: ../Results
