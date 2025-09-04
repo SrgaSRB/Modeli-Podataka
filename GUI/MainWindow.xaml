@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:GUI"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="854">
+        Title="MainWindow" Height="480" Width="854">
     <Grid>
         <TabControl>
             <!-- EXTENT TAB -->

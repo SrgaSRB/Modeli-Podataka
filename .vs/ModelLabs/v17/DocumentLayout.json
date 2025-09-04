@@ -3,32 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\SRDJAN\\OneDrive\\Cetvrta godina\\Modeli podataka\\Posle blokada\\Projekat_2024_25\\ModelLabsProjekat\\ModelLabs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B526F489-FD82-48B9-8DCC-044E3C664132}|GUI\\GUI.csproj|c:\\users\\srdjan\\onedrive\\cetvrta godina\\modeli podataka\\posle blokada\\projekat_2024_25\\modellabsprojekat\\modellabs\\gui\\gdaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B526F489-FD82-48B9-8DCC-044E3C664132}|GUI\\GUI.csproj|solutionrelative:gui\\gdaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B526F489-FD82-48B9-8DCC-044E3C664132}|GUI\\GUI.csproj|c:\\users\\srdjan\\onedrive\\cetvrta godina\\modeli podataka\\posle blokada\\projekat_2024_25\\modellabsprojekat\\modellabs\\gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B526F489-FD82-48B9-8DCC-044E3C664132}|GUI\\GUI.csproj|solutionrelative:gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B526F489-FD82-48B9-8DCC-044E3C664132}|GUI\\GUI.csproj|c:\\users\\srdjan\\onedrive\\cetvrta godina\\modeli podataka\\posle blokada\\projekat_2024_25\\modellabsprojekat\\modellabs\\gui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{B526F489-FD82-48B9-8DCC-044E3C664132}|GUI\\GUI.csproj|solutionrelative:gui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32EE9373-A350-42AC-972B-41B2EDABA082}|NetworkModelService\\Test\\NMSTestClient\\NMSTestClient.csproj|c:\\users\\srdjan\\onedrive\\cetvrta godina\\modeli podataka\\posle blokada\\projekat_2024_25\\modellabsprojekat\\modellabs\\networkmodelservice\\test\\nmstestclient\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{32EE9373-A350-42AC-972B-41B2EDABA082}|NetworkModelService\\Test\\NMSTestClient\\NMSTestClient.csproj|solutionrelative:networkmodelservice\\test\\nmstestclient\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B526F489-FD82-48B9-8DCC-044E3C664132}|GUI\\GUI.csproj|c:\\users\\srdjan\\onedrive\\cetvrta godina\\modeli podataka\\posle blokada\\projekat_2024_25\\modellabsprojekat\\modellabs\\gui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B526F489-FD82-48B9-8DCC-044E3C664132}|GUI\\GUI.csproj|solutionrelative:gui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|c:\\users\\srdjan\\onedrive\\cetvrta godina\\modeli podataka\\posle blokada\\projekat_2024_25\\modellabsprojekat\\modellabs\\cimprofilecreator\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|solutionrelative:cimprofilecreator\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32EE9373-A350-42AC-972B-41B2EDABA082}|NetworkModelService\\Test\\NMSTestClient\\NMSTestClient.csproj|c:\\users\\srdjan\\onedrive\\cetvrta godina\\modeli podataka\\posle blokada\\projekat_2024_25\\modellabsprojekat\\modellabs\\networkmodelservice\\test\\nmstestclient\\testgda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32EE9373-A350-42AC-972B-41B2EDABA082}|NetworkModelService\\Test\\NMSTestClient\\NMSTestClient.csproj|solutionrelative:networkmodelservice\\test\\nmstestclient\\testgda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B526F489-FD82-48B9-8DCC-044E3C664132}|GUI\\GUI.csproj|c:\\users\\srdjan\\onedrive\\cetvrta godina\\modeli podataka\\posle blokada\\projekat_2024_25\\modellabsprojekat\\modellabs\\gui\\gdaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B526F489-FD82-48B9-8DCC-044E3C664132}|GUI\\GUI.csproj|solutionrelative:gui\\gdaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B526F489-FD82-48B9-8DCC-044E3C664132}|GUI\\GUI.csproj|c:\\users\\srdjan\\onedrive\\cetvrta godina\\modeli podataka\\posle blokada\\projekat_2024_25\\modellabsprojekat\\modellabs\\gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -42,108 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 246,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GdaService.cs",
-              "DocumentMoniker": "C:\\Users\\SRDJAN\\OneDrive\\Cetvrta godina\\Modeli podataka\\Posle blokada\\Projekat_2024_25\\ModelLabsProjekat\\ModelLabs\\GUI\\GdaService.cs",
-              "RelativeDocumentMoniker": "GUI\\GdaService.cs",
-              "ToolTip": "C:\\Users\\SRDJAN\\OneDrive\\Cetvrta godina\\Modeli podataka\\Posle blokada\\Projekat_2024_25\\ModelLabsProjekat\\ModelLabs\\GUI\\GdaService.cs",
-              "RelativeToolTip": "GUI\\GdaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T00:46:43.575Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "app.config",
-              "DocumentMoniker": "C:\\Users\\SRDJAN\\OneDrive\\Cetvrta godina\\Modeli podataka\\Posle blokada\\Projekat_2024_25\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\app.config",
-              "RelativeDocumentMoniker": "CIMProfileCreator\\app.config",
-              "ToolTip": "C:\\Users\\SRDJAN\\OneDrive\\Cetvrta godina\\Modeli podataka\\Posle blokada\\Projekat_2024_25\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\app.config",
-              "RelativeToolTip": "CIMProfileCreator\\app.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-09-02T00:44:53.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\SRDJAN\\OneDrive\\Cetvrta godina\\Modeli podataka\\Posle blokada\\Projekat_2024_25\\ModelLabsProjekat\\ModelLabs\\GUI\\MainWindow.xaml",
               "RelativeDocumentMoniker": "GUI\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\SRDJAN\\OneDrive\\Cetvrta godina\\Modeli podataka\\Posle blokada\\Projekat_2024_25\\ModelLabsProjekat\\ModelLabs\\GUI\\MainWindow.xaml",
               "RelativeToolTip": "GUI\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-01T23:55:21.488Z",
+              "WhenOpened": "2025-09-03T20:41:33.133Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TestGda.cs",
-              "DocumentMoniker": "C:\\Users\\SRDJAN\\OneDrive\\Cetvrta godina\\Modeli podataka\\Posle blokada\\Projekat_2024_25\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\Test\\NMSTestClient\\TestGda.cs",
-              "RelativeDocumentMoniker": "NetworkModelService\\Test\\NMSTestClient\\TestGda.cs",
-              "ToolTip": "C:\\Users\\SRDJAN\\OneDrive\\Cetvrta godina\\Modeli podataka\\Posle blokada\\Projekat_2024_25\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\Test\\NMSTestClient\\TestGda.cs",
-              "RelativeToolTip": "NetworkModelService\\Test\\NMSTestClient\\TestGda.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAQwCIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T23:54:26.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\SRDJAN\\OneDrive\\Cetvrta godina\\Modeli podataka\\Posle blokada\\Projekat_2024_25\\ModelLabsProjekat\\ModelLabs\\GUI\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "GUI\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\SRDJAN\\OneDrive\\Cetvrta godina\\Modeli podataka\\Posle blokada\\Projekat_2024_25\\ModelLabsProjekat\\ModelLabs\\GUI\\MainWindow.xaml.cs",
               "RelativeToolTip": "GUI\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwCAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAYBAAAAAAAAAAAMwHQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T23:54:22.585Z",
+              "WhenOpened": "2025-09-03T20:40:03.493Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\SRDJAN\\OneDrive\\Cetvrta godina\\Modeli podataka\\Posle blokada\\Projekat_2024_25\\ModelLabsProjekat\\ModelLabs\\GUI\\App.config",
-              "RelativeDocumentMoniker": "GUI\\App.config",
-              "ToolTip": "C:\\Users\\SRDJAN\\OneDrive\\Cetvrta godina\\Modeli podataka\\Posle blokada\\Projekat_2024_25\\ModelLabsProjekat\\ModelLabs\\GUI\\App.config",
-              "RelativeToolTip": "GUI\\App.config",
-              "ViewState": "AgIAABUAAAAAAAAAAAAwwDYAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-09-02T00:46:10.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\SRDJAN\\OneDrive\\Cetvrta godina\\Modeli podataka\\Posle blokada\\Projekat_2024_25\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\Test\\NMSTestClient\\app.config",
-              "RelativeDocumentMoniker": "NetworkModelService\\Test\\NMSTestClient\\app.config",
-              "ToolTip": "C:\\Users\\SRDJAN\\OneDrive\\Cetvrta godina\\Modeli podataka\\Posle blokada\\Projekat_2024_25\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\Test\\NMSTestClient\\app.config",
-              "RelativeToolTip": "NetworkModelService\\Test\\NMSTestClient\\app.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-09-02T00:46:02.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\SRDJAN\\OneDrive\\Cetvrta godina\\Modeli podataka\\Posle blokada\\Projekat_2024_25\\ModelLabsProjekat\\ModelLabs\\GUI\\App.xaml",
-              "RelativeDocumentMoniker": "GUI\\App.xaml",
-              "ToolTip": "C:\\Users\\SRDJAN\\OneDrive\\Cetvrta godina\\Modeli podataka\\Posle blokada\\Projekat_2024_25\\ModelLabsProjekat\\ModelLabs\\GUI\\App.xaml",
-              "RelativeToolTip": "GUI\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-02T00:46:07.603Z",
+              "DocumentIndex": 1,
+              "Title": "GdaService.cs",
+              "DocumentMoniker": "C:\\Users\\SRDJAN\\OneDrive\\Cetvrta godina\\Modeli podataka\\Posle blokada\\Projekat_2024_25\\ModelLabsProjekat\\ModelLabs\\GUI\\GdaService.cs",
+              "RelativeDocumentMoniker": "GUI\\GdaService.cs",
+              "ToolTip": "C:\\Users\\SRDJAN\\OneDrive\\Cetvrta godina\\Modeli podataka\\Posle blokada\\Projekat_2024_25\\ModelLabsProjekat\\ModelLabs\\GUI\\GdaService.cs",
+              "RelativeToolTip": "GUI\\GdaService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T20:40:00.618Z",
               "EditorCaption": ""
             }
           ]

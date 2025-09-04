@@ -4366,3 +4366,1269 @@
 2.9.2025. 03:16:37 : Trace level: Info
 2.9.2025. 03:16:37 : The Network Model Service is started.
 2.9.2025. 03:16:37 : Press <Enter> to stop the service.
+3.9.2025. 22:31:49 : Starting Network Model Serivice...
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000400000001).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000400000002).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000400000003).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000200000001).
+3.9.2025. 22:31:49 : Failed to insert entity (GID = 0x0000000200000001) into model. Failed to get target entity with GID: 0x0000000500000001 for reference SO_OUTAGESCHEDULE on source 0x0000000200000001.
+3.9.2025. 22:31:49 : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000200000001) into model. Failed to get target entity with GID: 0x0000000500000001 for reference SO_OUTAGESCHEDULE on source 0x0000000200000001.
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000400000004).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000400000005).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000400000006).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000200000002).
+3.9.2025. 22:31:49 : Failed to insert entity (GID = 0x0000000200000002) into model. Failed to get target entity with GID: 0x0000000500000001 for reference SO_OUTAGESCHEDULE on source 0x0000000200000002.
+3.9.2025. 22:31:49 : Error while applying delta (id = 2) during service initialization. Failed to insert entity (GID = 0x0000000200000002) into model. Failed to get target entity with GID: 0x0000000500000001 for reference SO_OUTAGESCHEDULE on source 0x0000000200000002.
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000400000007).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000400000008).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000400000009).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000200000003).
+3.9.2025. 22:31:49 : Failed to insert entity (GID = 0x0000000200000003) into model. Failed to get target entity with GID: 0x0000000500000001 for reference SO_OUTAGESCHEDULE on source 0x0000000200000003.
+3.9.2025. 22:31:49 : Error while applying delta (id = 3) during service initialization. Failed to insert entity (GID = 0x0000000200000003) into model. Failed to get target entity with GID: 0x0000000500000001 for reference SO_OUTAGESCHEDULE on source 0x0000000200000003.
+3.9.2025. 22:31:49 : Inserting entity with GID (000000040000000a).
+3.9.2025. 22:31:49 : Inserting entity with GID (000000040000000b).
+3.9.2025. 22:31:49 : Inserting entity with GID (000000040000000c).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000200000004).
+3.9.2025. 22:31:49 : Failed to insert entity (GID = 0x0000000200000004) into model. Failed to get target entity with GID: 0x0000000500000001 for reference SO_OUTAGESCHEDULE on source 0x0000000200000004.
+3.9.2025. 22:31:49 : Error while applying delta (id = 4) during service initialization. Failed to insert entity (GID = 0x0000000200000004) into model. Failed to get target entity with GID: 0x0000000500000001 for reference SO_OUTAGESCHEDULE on source 0x0000000200000004.
+3.9.2025. 22:31:49 : Inserting entity with GID (000000040000000d).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000300000001).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000200000005).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000500000001).
+3.9.2025. 22:31:49 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000001).
+3.9.2025. 22:31:49 : Failed to insert entity (GID = 0x0000000500000001) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000001).
+3.9.2025. 22:31:49 : Error while applying delta (id = 5) during service initialization. Failed to insert entity (GID = 0x0000000500000001) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000001).
+3.9.2025. 22:31:49 : Inserting entity with GID (000000040000000e).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000300000002).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000200000006).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000500000002).
+3.9.2025. 22:31:49 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000002).
+3.9.2025. 22:31:49 : Failed to insert entity (GID = 0x0000000500000002) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000002).
+3.9.2025. 22:31:49 : Error while applying delta (id = 6) during service initialization. Failed to insert entity (GID = 0x0000000500000002) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000002).
+3.9.2025. 22:31:49 : Inserting entity with GID (000000040000000f).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000300000003).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000200000007).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000500000003).
+3.9.2025. 22:31:49 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000003).
+3.9.2025. 22:31:49 : Failed to insert entity (GID = 0x0000000500000003) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000003).
+3.9.2025. 22:31:49 : Error while applying delta (id = 7) during service initialization. Failed to insert entity (GID = 0x0000000500000003) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000003).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000400000010).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000300000004).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000200000008).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000500000004).
+3.9.2025. 22:31:49 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000004).
+3.9.2025. 22:31:49 : Failed to insert entity (GID = 0x0000000500000004) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000004).
+3.9.2025. 22:31:49 : Error while applying delta (id = 8) during service initialization. Failed to insert entity (GID = 0x0000000500000004) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000004).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000400000011).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000300000005).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000200000009).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000500000005).
+3.9.2025. 22:31:49 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000005).
+3.9.2025. 22:31:49 : Failed to insert entity (GID = 0x0000000500000005) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000005).
+3.9.2025. 22:31:49 : Error while applying delta (id = 9) during service initialization. Failed to insert entity (GID = 0x0000000500000005) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000005).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000400000012).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000400000013).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000400000014).
+3.9.2025. 22:31:49 : Inserting entity with GID (000000020000000a).
+3.9.2025. 22:31:49 : Failed to insert entity (GID = 0x000000020000000a) into model. Failed to get target entity with GID: 0x0000000500000006 for reference SO_OUTAGESCHEDULE on source 0x000000020000000A.
+3.9.2025. 22:31:49 : Error while applying delta (id = 10) during service initialization. Failed to insert entity (GID = 0x000000020000000a) into model. Failed to get target entity with GID: 0x0000000500000006 for reference SO_OUTAGESCHEDULE on source 0x000000020000000A.
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000400000015).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000300000006).
+3.9.2025. 22:31:49 : Inserting entity with GID (000000020000000b).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000500000006).
+3.9.2025. 22:31:49 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000006).
+3.9.2025. 22:31:49 : Failed to insert entity (GID = 0x0000000500000006) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000006).
+3.9.2025. 22:31:49 : Error while applying delta (id = 11) during service initialization. Failed to insert entity (GID = 0x0000000500000006) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000006).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000400000016).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000300000007).
+3.9.2025. 22:31:49 : Inserting entity with GID (000000020000000c).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000500000007).
+3.9.2025. 22:31:49 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000007).
+3.9.2025. 22:31:49 : Failed to insert entity (GID = 0x0000000500000007) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000007).
+3.9.2025. 22:31:49 : Error while applying delta (id = 12) during service initialization. Failed to insert entity (GID = 0x0000000500000007) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000007).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000400000017).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000300000008).
+3.9.2025. 22:31:49 : Inserting entity with GID (000000020000000d).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000500000008).
+3.9.2025. 22:31:49 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000008).
+3.9.2025. 22:31:49 : Failed to insert entity (GID = 0x0000000500000008) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000008).
+3.9.2025. 22:31:49 : Error while applying delta (id = 13) during service initialization. Failed to insert entity (GID = 0x0000000500000008) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000008).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000400000018).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000300000009).
+3.9.2025. 22:31:49 : Inserting entity with GID (000000020000000e).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000500000009).
+3.9.2025. 22:31:49 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000009).
+3.9.2025. 22:31:49 : Failed to insert entity (GID = 0x0000000500000009) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000009).
+3.9.2025. 22:31:49 : Error while applying delta (id = 14) during service initialization. Failed to insert entity (GID = 0x0000000500000009) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000009).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000400000019).
+3.9.2025. 22:31:49 : Inserting entity with GID (000000030000000a).
+3.9.2025. 22:31:49 : Inserting entity with GID (000000020000000f).
+3.9.2025. 22:31:49 : Inserting entity with GID (000000050000000a).
+3.9.2025. 22:31:49 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000a).
+3.9.2025. 22:31:49 : Failed to insert entity (GID = 0x000000050000000a) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000a).
+3.9.2025. 22:31:49 : Error while applying delta (id = 15) during service initialization. Failed to insert entity (GID = 0x000000050000000a) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000a).
+3.9.2025. 22:31:49 : Inserting entity with GID (000000040000001a).
+3.9.2025. 22:31:49 : Inserting entity with GID (000000030000000b).
+3.9.2025. 22:31:49 : Inserting entity with GID (0000000200000010).
+3.9.2025. 22:31:49 : Inserting entity with GID (000000050000000b).
+3.9.2025. 22:31:49 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000b).
+3.9.2025. 22:31:50 : Failed to insert entity (GID = 0x000000050000000b) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000b).
+3.9.2025. 22:31:50 : Error while applying delta (id = 16) during service initialization. Failed to insert entity (GID = 0x000000050000000b) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000b).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000040000001b).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000030000000c).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000200000011).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000050000000c).
+3.9.2025. 22:31:50 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000c).
+3.9.2025. 22:31:50 : Failed to insert entity (GID = 0x000000050000000c) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000c).
+3.9.2025. 22:31:50 : Error while applying delta (id = 17) during service initialization. Failed to insert entity (GID = 0x000000050000000c) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000c).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000040000001c).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000030000000d).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000200000012).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000050000000d).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000100000001).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000600000001).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000040000001d).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000030000000e).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000200000013).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000050000000e).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000100000002).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000600000002).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000040000001e).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000030000000f).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000200000014).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000050000000f).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000100000003).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000600000003).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000040000001f).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000300000010).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000200000015).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000500000010).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000100000004).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000600000004).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000020).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000300000011).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000200000016).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000500000011).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000100000005).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000600000005).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000021).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000300000012).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000200000017).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000500000012).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000100000006).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000600000006).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000022).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000300000013).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000200000018).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000500000013).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000100000007).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000600000007).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000023).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000300000014).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000200000019).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000500000014).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000100000008).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000600000008).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000024).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000300000015).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000020000001a).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000500000015).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000100000009).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000600000009).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000025).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000026).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000027).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000020000001b).
+3.9.2025. 22:31:50 : Failed to insert entity (GID = 0x000000020000001b) into model. Failed to get target entity with GID: 0x0000000500000016 for reference SO_OUTAGESCHEDULE on source 0x000000020000001B.
+3.9.2025. 22:31:50 : Error while applying delta (id = 27) during service initialization. Failed to insert entity (GID = 0x000000020000001b) into model. Failed to get target entity with GID: 0x0000000500000016 for reference SO_OUTAGESCHEDULE on source 0x000000020000001B.
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000028).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000029).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000040000002a).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000020000001c).
+3.9.2025. 22:31:50 : Failed to insert entity (GID = 0x000000020000001c) into model. Failed to get target entity with GID: 0x0000000500000016 for reference SO_OUTAGESCHEDULE on source 0x000000020000001C.
+3.9.2025. 22:31:50 : Error while applying delta (id = 28) during service initialization. Failed to insert entity (GID = 0x000000020000001c) into model. Failed to get target entity with GID: 0x0000000500000016 for reference SO_OUTAGESCHEDULE on source 0x000000020000001C.
+3.9.2025. 22:31:50 : Inserting entity with GID (000000040000002b).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000040000002c).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000040000002d).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000020000001d).
+3.9.2025. 22:31:50 : Failed to insert entity (GID = 0x000000020000001d) into model. Failed to get target entity with GID: 0x0000000500000016 for reference SO_OUTAGESCHEDULE on source 0x000000020000001D.
+3.9.2025. 22:31:50 : Error while applying delta (id = 29) during service initialization. Failed to insert entity (GID = 0x000000020000001d) into model. Failed to get target entity with GID: 0x0000000500000016 for reference SO_OUTAGESCHEDULE on source 0x000000020000001D.
+3.9.2025. 22:31:50 : Inserting entity with GID (000000040000002e).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000040000002f).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000030).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000020000001e).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000020000001f).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000031).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000032).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000033).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000200000020).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000200000021).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000034).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000035).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000036).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000200000022).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000200000023).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000037).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000038).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000039).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000010000000a).
+3.9.2025. 22:31:50 : Failed to insert entity (GID = 0x000000010000000a) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000A.
+3.9.2025. 22:31:50 : Error while applying delta (id = 33) during service initialization. Failed to insert entity (GID = 0x000000010000000a) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000A.
+3.9.2025. 22:31:50 : Inserting entity with GID (000000040000003a).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000040000003b).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000040000003c).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000010000000b).
+3.9.2025. 22:31:50 : Failed to insert entity (GID = 0x000000010000000b) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000B.
+3.9.2025. 22:31:50 : Error while applying delta (id = 34) during service initialization. Failed to insert entity (GID = 0x000000010000000b) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000B.
+3.9.2025. 22:31:50 : Inserting entity with GID (000000040000003d).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000040000003e).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000040000003f).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000010000000c).
+3.9.2025. 22:31:50 : Failed to insert entity (GID = 0x000000010000000c) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000C.
+3.9.2025. 22:31:50 : Error while applying delta (id = 35) during service initialization. Failed to insert entity (GID = 0x000000010000000c) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000C.
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000040).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000041).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000042).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000010000000d).
+3.9.2025. 22:31:50 : Failed to insert entity (GID = 0x000000010000000d) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000D.
+3.9.2025. 22:31:50 : Error while applying delta (id = 36) during service initialization. Failed to insert entity (GID = 0x000000010000000d) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000D.
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000043).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000044).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000045).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000010000000e).
+3.9.2025. 22:31:50 : Failed to insert entity (GID = 0x000000010000000e) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000E.
+3.9.2025. 22:31:50 : Error while applying delta (id = 37) during service initialization. Failed to insert entity (GID = 0x000000010000000e) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000E.
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000046).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000047).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000048).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000010000000f).
+3.9.2025. 22:31:50 : Failed to insert entity (GID = 0x000000010000000f) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000F.
+3.9.2025. 22:31:50 : Error while applying delta (id = 38) during service initialization. Failed to insert entity (GID = 0x000000010000000f) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000F.
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000049).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000040000004a).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000040000004b).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000100000010).
+3.9.2025. 22:31:50 : Failed to insert entity (GID = 0x0000000100000010) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x0000000100000010.
+3.9.2025. 22:31:50 : Error while applying delta (id = 39) during service initialization. Failed to insert entity (GID = 0x0000000100000010) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x0000000100000010.
+3.9.2025. 22:31:50 : Inserting entity with GID (000000040000004c).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000040000004d).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000040000004e).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000100000011).
+3.9.2025. 22:31:50 : Failed to insert entity (GID = 0x0000000100000011) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x0000000100000011.
+3.9.2025. 22:31:50 : Error while applying delta (id = 40) during service initialization. Failed to insert entity (GID = 0x0000000100000011) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x0000000100000011.
+3.9.2025. 22:31:50 : Inserting entity with GID (000000040000004f).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000050).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000051).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000100000012).
+3.9.2025. 22:31:50 : Failed to insert entity (GID = 0x0000000100000012) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x0000000100000012.
+3.9.2025. 22:31:50 : Error while applying delta (id = 41) during service initialization. Failed to insert entity (GID = 0x0000000100000012) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x0000000100000012.
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000052).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000053).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000054).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000500000016).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000100000013).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000100000014).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000200000024).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000200000025).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000055).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000300000016).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000500000017).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000100000015).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000200000026).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000060000000a).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000056).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000300000017).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000500000018).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000100000016).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000200000027).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000060000000b).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000057).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000300000018).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000500000019).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000100000017).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000200000028).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000060000000c).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000400000058).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000300000019).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000050000001a).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000100000018).
+3.9.2025. 22:31:50 : Inserting entity with GID (0000000200000029).
+3.9.2025. 22:31:50 : Inserting entity with GID (000000060000000d).
+3.9.2025. 22:31:50 : The WCF service GenericDataAccess is ready.
+3.9.2025. 22:31:50 : Endpoints:
+3.9.2025. 22:31:50 : net.tcp://localhost:10000/NetworkModelService/GDA/
+3.9.2025. 22:31:50 : Connection string: ../NetworkModelData.data
+3.9.2025. 22:31:50 : Trace level: Info
+3.9.2025. 22:31:50 : The Network Model Service is started.
+3.9.2025. 22:31:50 : Press <Enter> to stop the service.
+3.9.2025. 22:40:30 : Starting Network Model Serivice...
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000001).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000002).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000003).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000200000001).
+3.9.2025. 22:40:31 : Failed to insert entity (GID = 0x0000000200000001) into model. Failed to get target entity with GID: 0x0000000500000001 for reference SO_OUTAGESCHEDULE on source 0x0000000200000001.
+3.9.2025. 22:40:31 : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000200000001) into model. Failed to get target entity with GID: 0x0000000500000001 for reference SO_OUTAGESCHEDULE on source 0x0000000200000001.
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000004).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000005).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000006).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000200000002).
+3.9.2025. 22:40:31 : Failed to insert entity (GID = 0x0000000200000002) into model. Failed to get target entity with GID: 0x0000000500000001 for reference SO_OUTAGESCHEDULE on source 0x0000000200000002.
+3.9.2025. 22:40:31 : Error while applying delta (id = 2) during service initialization. Failed to insert entity (GID = 0x0000000200000002) into model. Failed to get target entity with GID: 0x0000000500000001 for reference SO_OUTAGESCHEDULE on source 0x0000000200000002.
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000007).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000008).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000009).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000200000003).
+3.9.2025. 22:40:31 : Failed to insert entity (GID = 0x0000000200000003) into model. Failed to get target entity with GID: 0x0000000500000001 for reference SO_OUTAGESCHEDULE on source 0x0000000200000003.
+3.9.2025. 22:40:31 : Error while applying delta (id = 3) during service initialization. Failed to insert entity (GID = 0x0000000200000003) into model. Failed to get target entity with GID: 0x0000000500000001 for reference SO_OUTAGESCHEDULE on source 0x0000000200000003.
+3.9.2025. 22:40:31 : Inserting entity with GID (000000040000000a).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000040000000b).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000040000000c).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000200000004).
+3.9.2025. 22:40:31 : Failed to insert entity (GID = 0x0000000200000004) into model. Failed to get target entity with GID: 0x0000000500000001 for reference SO_OUTAGESCHEDULE on source 0x0000000200000004.
+3.9.2025. 22:40:31 : Error while applying delta (id = 4) during service initialization. Failed to insert entity (GID = 0x0000000200000004) into model. Failed to get target entity with GID: 0x0000000500000001 for reference SO_OUTAGESCHEDULE on source 0x0000000200000004.
+3.9.2025. 22:40:31 : Inserting entity with GID (000000040000000d).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000300000001).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000200000005).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000500000001).
+3.9.2025. 22:40:31 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000001).
+3.9.2025. 22:40:31 : Failed to insert entity (GID = 0x0000000500000001) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000001).
+3.9.2025. 22:40:31 : Error while applying delta (id = 5) during service initialization. Failed to insert entity (GID = 0x0000000500000001) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000001).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000040000000e).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000300000002).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000200000006).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000500000002).
+3.9.2025. 22:40:31 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000002).
+3.9.2025. 22:40:31 : Failed to insert entity (GID = 0x0000000500000002) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000002).
+3.9.2025. 22:40:31 : Error while applying delta (id = 6) during service initialization. Failed to insert entity (GID = 0x0000000500000002) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000002).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000040000000f).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000300000003).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000200000007).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000500000003).
+3.9.2025. 22:40:31 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000003).
+3.9.2025. 22:40:31 : Failed to insert entity (GID = 0x0000000500000003) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000003).
+3.9.2025. 22:40:31 : Error while applying delta (id = 7) during service initialization. Failed to insert entity (GID = 0x0000000500000003) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000003).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000010).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000300000004).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000200000008).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000500000004).
+3.9.2025. 22:40:31 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000004).
+3.9.2025. 22:40:31 : Failed to insert entity (GID = 0x0000000500000004) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000004).
+3.9.2025. 22:40:31 : Error while applying delta (id = 8) during service initialization. Failed to insert entity (GID = 0x0000000500000004) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000004).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000011).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000300000005).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000200000009).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000500000005).
+3.9.2025. 22:40:31 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000005).
+3.9.2025. 22:40:31 : Failed to insert entity (GID = 0x0000000500000005) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000005).
+3.9.2025. 22:40:31 : Error while applying delta (id = 9) during service initialization. Failed to insert entity (GID = 0x0000000500000005) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000005).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000012).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000013).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000014).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000020000000a).
+3.9.2025. 22:40:31 : Failed to insert entity (GID = 0x000000020000000a) into model. Failed to get target entity with GID: 0x0000000500000006 for reference SO_OUTAGESCHEDULE on source 0x000000020000000A.
+3.9.2025. 22:40:31 : Error while applying delta (id = 10) during service initialization. Failed to insert entity (GID = 0x000000020000000a) into model. Failed to get target entity with GID: 0x0000000500000006 for reference SO_OUTAGESCHEDULE on source 0x000000020000000A.
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000015).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000300000006).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000020000000b).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000500000006).
+3.9.2025. 22:40:31 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000006).
+3.9.2025. 22:40:31 : Failed to insert entity (GID = 0x0000000500000006) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000006).
+3.9.2025. 22:40:31 : Error while applying delta (id = 11) during service initialization. Failed to insert entity (GID = 0x0000000500000006) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000006).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000016).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000300000007).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000020000000c).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000500000007).
+3.9.2025. 22:40:31 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000007).
+3.9.2025. 22:40:31 : Failed to insert entity (GID = 0x0000000500000007) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000007).
+3.9.2025. 22:40:31 : Error while applying delta (id = 12) during service initialization. Failed to insert entity (GID = 0x0000000500000007) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000007).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000017).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000300000008).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000020000000d).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000500000008).
+3.9.2025. 22:40:31 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000008).
+3.9.2025. 22:40:31 : Failed to insert entity (GID = 0x0000000500000008) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000008).
+3.9.2025. 22:40:31 : Error while applying delta (id = 13) during service initialization. Failed to insert entity (GID = 0x0000000500000008) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000008).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000018).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000300000009).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000020000000e).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000500000009).
+3.9.2025. 22:40:31 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000009).
+3.9.2025. 22:40:31 : Failed to insert entity (GID = 0x0000000500000009) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000009).
+3.9.2025. 22:40:31 : Error while applying delta (id = 14) during service initialization. Failed to insert entity (GID = 0x0000000500000009) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000009).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000019).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000030000000a).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000020000000f).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000050000000a).
+3.9.2025. 22:40:31 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000a).
+3.9.2025. 22:40:31 : Failed to insert entity (GID = 0x000000050000000a) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000a).
+3.9.2025. 22:40:31 : Error while applying delta (id = 15) during service initialization. Failed to insert entity (GID = 0x000000050000000a) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000a).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000040000001a).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000030000000b).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000200000010).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000050000000b).
+3.9.2025. 22:40:31 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000b).
+3.9.2025. 22:40:31 : Failed to insert entity (GID = 0x000000050000000b) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000b).
+3.9.2025. 22:40:31 : Error while applying delta (id = 16) during service initialization. Failed to insert entity (GID = 0x000000050000000b) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000b).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000040000001b).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000030000000c).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000200000011).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000050000000c).
+3.9.2025. 22:40:31 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000c).
+3.9.2025. 22:40:31 : Failed to insert entity (GID = 0x000000050000000c) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000c).
+3.9.2025. 22:40:31 : Error while applying delta (id = 17) during service initialization. Failed to insert entity (GID = 0x000000050000000c) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000c).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000040000001c).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000030000000d).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000200000012).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000050000000d).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000100000001).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000600000001).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000040000001d).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000030000000e).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000200000013).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000050000000e).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000100000002).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000600000002).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000040000001e).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000030000000f).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000200000014).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000050000000f).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000100000003).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000600000003).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000040000001f).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000300000010).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000200000015).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000500000010).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000100000004).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000600000004).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000020).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000300000011).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000200000016).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000500000011).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000100000005).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000600000005).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000021).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000300000012).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000200000017).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000500000012).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000100000006).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000600000006).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000022).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000300000013).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000200000018).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000500000013).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000100000007).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000600000007).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000023).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000300000014).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000200000019).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000500000014).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000100000008).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000600000008).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000024).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000300000015).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000020000001a).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000500000015).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000100000009).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000600000009).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000025).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000026).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000027).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000020000001b).
+3.9.2025. 22:40:31 : Failed to insert entity (GID = 0x000000020000001b) into model. Failed to get target entity with GID: 0x0000000500000016 for reference SO_OUTAGESCHEDULE on source 0x000000020000001B.
+3.9.2025. 22:40:31 : Error while applying delta (id = 27) during service initialization. Failed to insert entity (GID = 0x000000020000001b) into model. Failed to get target entity with GID: 0x0000000500000016 for reference SO_OUTAGESCHEDULE on source 0x000000020000001B.
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000028).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000029).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000040000002a).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000020000001c).
+3.9.2025. 22:40:31 : Failed to insert entity (GID = 0x000000020000001c) into model. Failed to get target entity with GID: 0x0000000500000016 for reference SO_OUTAGESCHEDULE on source 0x000000020000001C.
+3.9.2025. 22:40:31 : Error while applying delta (id = 28) during service initialization. Failed to insert entity (GID = 0x000000020000001c) into model. Failed to get target entity with GID: 0x0000000500000016 for reference SO_OUTAGESCHEDULE on source 0x000000020000001C.
+3.9.2025. 22:40:31 : Inserting entity with GID (000000040000002b).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000040000002c).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000040000002d).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000020000001d).
+3.9.2025. 22:40:31 : Failed to insert entity (GID = 0x000000020000001d) into model. Failed to get target entity with GID: 0x0000000500000016 for reference SO_OUTAGESCHEDULE on source 0x000000020000001D.
+3.9.2025. 22:40:31 : Error while applying delta (id = 29) during service initialization. Failed to insert entity (GID = 0x000000020000001d) into model. Failed to get target entity with GID: 0x0000000500000016 for reference SO_OUTAGESCHEDULE on source 0x000000020000001D.
+3.9.2025. 22:40:31 : Inserting entity with GID (000000040000002e).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000040000002f).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000030).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000020000001e).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000020000001f).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000031).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000032).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000033).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000200000020).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000200000021).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000034).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000035).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000036).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000200000022).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000200000023).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000037).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000038).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000039).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000010000000a).
+3.9.2025. 22:40:31 : Failed to insert entity (GID = 0x000000010000000a) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000A.
+3.9.2025. 22:40:31 : Error while applying delta (id = 33) during service initialization. Failed to insert entity (GID = 0x000000010000000a) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000A.
+3.9.2025. 22:40:31 : Inserting entity with GID (000000040000003a).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000040000003b).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000040000003c).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000010000000b).
+3.9.2025. 22:40:31 : Failed to insert entity (GID = 0x000000010000000b) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000B.
+3.9.2025. 22:40:31 : Error while applying delta (id = 34) during service initialization. Failed to insert entity (GID = 0x000000010000000b) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000B.
+3.9.2025. 22:40:31 : Inserting entity with GID (000000040000003d).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000040000003e).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000040000003f).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000010000000c).
+3.9.2025. 22:40:31 : Failed to insert entity (GID = 0x000000010000000c) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000C.
+3.9.2025. 22:40:31 : Error while applying delta (id = 35) during service initialization. Failed to insert entity (GID = 0x000000010000000c) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000C.
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000040).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000041).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000042).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000010000000d).
+3.9.2025. 22:40:31 : Failed to insert entity (GID = 0x000000010000000d) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000D.
+3.9.2025. 22:40:31 : Error while applying delta (id = 36) during service initialization. Failed to insert entity (GID = 0x000000010000000d) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000D.
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000043).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000044).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000045).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000010000000e).
+3.9.2025. 22:40:31 : Failed to insert entity (GID = 0x000000010000000e) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000E.
+3.9.2025. 22:40:31 : Error while applying delta (id = 37) during service initialization. Failed to insert entity (GID = 0x000000010000000e) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000E.
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000046).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000047).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000048).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000010000000f).
+3.9.2025. 22:40:31 : Failed to insert entity (GID = 0x000000010000000f) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000F.
+3.9.2025. 22:40:31 : Error while applying delta (id = 38) during service initialization. Failed to insert entity (GID = 0x000000010000000f) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000F.
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000049).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000040000004a).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000040000004b).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000100000010).
+3.9.2025. 22:40:31 : Failed to insert entity (GID = 0x0000000100000010) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x0000000100000010.
+3.9.2025. 22:40:31 : Error while applying delta (id = 39) during service initialization. Failed to insert entity (GID = 0x0000000100000010) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x0000000100000010.
+3.9.2025. 22:40:31 : Inserting entity with GID (000000040000004c).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000040000004d).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000040000004e).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000100000011).
+3.9.2025. 22:40:31 : Failed to insert entity (GID = 0x0000000100000011) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x0000000100000011.
+3.9.2025. 22:40:31 : Error while applying delta (id = 40) during service initialization. Failed to insert entity (GID = 0x0000000100000011) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x0000000100000011.
+3.9.2025. 22:40:31 : Inserting entity with GID (000000040000004f).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000050).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000051).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000100000012).
+3.9.2025. 22:40:31 : Failed to insert entity (GID = 0x0000000100000012) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x0000000100000012.
+3.9.2025. 22:40:31 : Error while applying delta (id = 41) during service initialization. Failed to insert entity (GID = 0x0000000100000012) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x0000000100000012.
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000052).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000053).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000054).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000500000016).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000100000013).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000100000014).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000200000024).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000200000025).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000055).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000300000016).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000500000017).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000100000015).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000200000026).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000060000000a).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000056).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000300000017).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000500000018).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000100000016).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000200000027).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000060000000b).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000057).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000300000018).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000500000019).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000100000017).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000200000028).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000060000000c).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000400000058).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000300000019).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000050000001a).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000100000018).
+3.9.2025. 22:40:31 : Inserting entity with GID (0000000200000029).
+3.9.2025. 22:40:31 : Inserting entity with GID (000000060000000d).
+3.9.2025. 22:40:31 : The WCF service GenericDataAccess is ready.
+3.9.2025. 22:40:31 : Endpoints:
+3.9.2025. 22:40:31 : net.tcp://localhost:10000/NetworkModelService/GDA/
+3.9.2025. 22:40:31 : Connection string: ../NetworkModelData.data
+3.9.2025. 22:40:31 : Trace level: Info
+3.9.2025. 22:40:31 : The Network Model Service is started.
+3.9.2025. 22:40:31 : Press <Enter> to stop the service.
+3.9.2025. 22:49:58 : Starting Network Model Serivice...
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000001).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000002).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000003).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000200000001).
+3.9.2025. 22:49:58 : Failed to insert entity (GID = 0x0000000200000001) into model. Failed to get target entity with GID: 0x0000000500000001 for reference SO_OUTAGESCHEDULE on source 0x0000000200000001.
+3.9.2025. 22:49:58 : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000200000001) into model. Failed to get target entity with GID: 0x0000000500000001 for reference SO_OUTAGESCHEDULE on source 0x0000000200000001.
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000004).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000005).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000006).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000200000002).
+3.9.2025. 22:49:58 : Failed to insert entity (GID = 0x0000000200000002) into model. Failed to get target entity with GID: 0x0000000500000001 for reference SO_OUTAGESCHEDULE on source 0x0000000200000002.
+3.9.2025. 22:49:58 : Error while applying delta (id = 2) during service initialization. Failed to insert entity (GID = 0x0000000200000002) into model. Failed to get target entity with GID: 0x0000000500000001 for reference SO_OUTAGESCHEDULE on source 0x0000000200000002.
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000007).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000008).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000009).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000200000003).
+3.9.2025. 22:49:58 : Failed to insert entity (GID = 0x0000000200000003) into model. Failed to get target entity with GID: 0x0000000500000001 for reference SO_OUTAGESCHEDULE on source 0x0000000200000003.
+3.9.2025. 22:49:58 : Error while applying delta (id = 3) during service initialization. Failed to insert entity (GID = 0x0000000200000003) into model. Failed to get target entity with GID: 0x0000000500000001 for reference SO_OUTAGESCHEDULE on source 0x0000000200000003.
+3.9.2025. 22:49:58 : Inserting entity with GID (000000040000000a).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000040000000b).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000040000000c).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000200000004).
+3.9.2025. 22:49:58 : Failed to insert entity (GID = 0x0000000200000004) into model. Failed to get target entity with GID: 0x0000000500000001 for reference SO_OUTAGESCHEDULE on source 0x0000000200000004.
+3.9.2025. 22:49:58 : Error while applying delta (id = 4) during service initialization. Failed to insert entity (GID = 0x0000000200000004) into model. Failed to get target entity with GID: 0x0000000500000001 for reference SO_OUTAGESCHEDULE on source 0x0000000200000004.
+3.9.2025. 22:49:58 : Inserting entity with GID (000000040000000d).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000300000001).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000200000005).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000500000001).
+3.9.2025. 22:49:58 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000001).
+3.9.2025. 22:49:58 : Failed to insert entity (GID = 0x0000000500000001) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000001).
+3.9.2025. 22:49:58 : Error while applying delta (id = 5) during service initialization. Failed to insert entity (GID = 0x0000000500000001) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000001).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000040000000e).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000300000002).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000200000006).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000500000002).
+3.9.2025. 22:49:58 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000002).
+3.9.2025. 22:49:58 : Failed to insert entity (GID = 0x0000000500000002) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000002).
+3.9.2025. 22:49:58 : Error while applying delta (id = 6) during service initialization. Failed to insert entity (GID = 0x0000000500000002) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000002).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000040000000f).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000300000003).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000200000007).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000500000003).
+3.9.2025. 22:49:58 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000003).
+3.9.2025. 22:49:58 : Failed to insert entity (GID = 0x0000000500000003) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000003).
+3.9.2025. 22:49:58 : Error while applying delta (id = 7) during service initialization. Failed to insert entity (GID = 0x0000000500000003) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000003).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000010).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000300000004).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000200000008).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000500000004).
+3.9.2025. 22:49:58 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000004).
+3.9.2025. 22:49:58 : Failed to insert entity (GID = 0x0000000500000004) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000004).
+3.9.2025. 22:49:58 : Error while applying delta (id = 8) during service initialization. Failed to insert entity (GID = 0x0000000500000004) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000004).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000011).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000300000005).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000200000009).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000500000005).
+3.9.2025. 22:49:58 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000005).
+3.9.2025. 22:49:58 : Failed to insert entity (GID = 0x0000000500000005) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000005).
+3.9.2025. 22:49:58 : Error while applying delta (id = 9) during service initialization. Failed to insert entity (GID = 0x0000000500000005) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000005).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000012).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000013).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000014).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000020000000a).
+3.9.2025. 22:49:58 : Failed to insert entity (GID = 0x000000020000000a) into model. Failed to get target entity with GID: 0x0000000500000006 for reference SO_OUTAGESCHEDULE on source 0x000000020000000A.
+3.9.2025. 22:49:58 : Error while applying delta (id = 10) during service initialization. Failed to insert entity (GID = 0x000000020000000a) into model. Failed to get target entity with GID: 0x0000000500000006 for reference SO_OUTAGESCHEDULE on source 0x000000020000000A.
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000015).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000300000006).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000020000000b).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000500000006).
+3.9.2025. 22:49:58 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000006).
+3.9.2025. 22:49:58 : Failed to insert entity (GID = 0x0000000500000006) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000006).
+3.9.2025. 22:49:58 : Error while applying delta (id = 11) during service initialization. Failed to insert entity (GID = 0x0000000500000006) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000006).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000016).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000300000007).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000020000000c).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000500000007).
+3.9.2025. 22:49:58 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000007).
+3.9.2025. 22:49:58 : Failed to insert entity (GID = 0x0000000500000007) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000007).
+3.9.2025. 22:49:58 : Error while applying delta (id = 12) during service initialization. Failed to insert entity (GID = 0x0000000500000007) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000007).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000017).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000300000008).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000020000000d).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000500000008).
+3.9.2025. 22:49:58 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000008).
+3.9.2025. 22:49:58 : Failed to insert entity (GID = 0x0000000500000008) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000008).
+3.9.2025. 22:49:58 : Error while applying delta (id = 13) during service initialization. Failed to insert entity (GID = 0x0000000500000008) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000008).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000018).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000300000009).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000020000000e).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000500000009).
+3.9.2025. 22:49:58 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000009).
+3.9.2025. 22:49:58 : Failed to insert entity (GID = 0x0000000500000009) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000009).
+3.9.2025. 22:49:58 : Error while applying delta (id = 14) during service initialization. Failed to insert entity (GID = 0x0000000500000009) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000009).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000019).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000030000000a).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000020000000f).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000050000000a).
+3.9.2025. 22:49:58 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000a).
+3.9.2025. 22:49:58 : Failed to insert entity (GID = 0x000000050000000a) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000a).
+3.9.2025. 22:49:58 : Error while applying delta (id = 15) during service initialization. Failed to insert entity (GID = 0x000000050000000a) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000a).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000040000001a).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000030000000b).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000200000010).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000050000000b).
+3.9.2025. 22:49:58 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000b).
+3.9.2025. 22:49:58 : Failed to insert entity (GID = 0x000000050000000b) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000b).
+3.9.2025. 22:49:58 : Error while applying delta (id = 16) during service initialization. Failed to insert entity (GID = 0x000000050000000b) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000b).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000040000001b).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000030000000c).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000200000011).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000050000000c).
+3.9.2025. 22:49:58 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000c).
+3.9.2025. 22:49:58 : Failed to insert entity (GID = 0x000000050000000c) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000c).
+3.9.2025. 22:49:58 : Error while applying delta (id = 17) during service initialization. Failed to insert entity (GID = 0x000000050000000c) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000c).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000040000001c).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000030000000d).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000200000012).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000050000000d).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000100000001).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000600000001).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000040000001d).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000030000000e).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000200000013).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000050000000e).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000100000002).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000600000002).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000040000001e).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000030000000f).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000200000014).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000050000000f).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000100000003).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000600000003).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000040000001f).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000300000010).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000200000015).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000500000010).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000100000004).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000600000004).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000020).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000300000011).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000200000016).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000500000011).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000100000005).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000600000005).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000021).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000300000012).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000200000017).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000500000012).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000100000006).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000600000006).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000022).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000300000013).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000200000018).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000500000013).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000100000007).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000600000007).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000023).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000300000014).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000200000019).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000500000014).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000100000008).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000600000008).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000024).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000300000015).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000020000001a).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000500000015).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000100000009).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000600000009).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000025).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000026).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000027).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000020000001b).
+3.9.2025. 22:49:58 : Failed to insert entity (GID = 0x000000020000001b) into model. Failed to get target entity with GID: 0x0000000500000016 for reference SO_OUTAGESCHEDULE on source 0x000000020000001B.
+3.9.2025. 22:49:58 : Error while applying delta (id = 27) during service initialization. Failed to insert entity (GID = 0x000000020000001b) into model. Failed to get target entity with GID: 0x0000000500000016 for reference SO_OUTAGESCHEDULE on source 0x000000020000001B.
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000028).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000029).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000040000002a).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000020000001c).
+3.9.2025. 22:49:58 : Failed to insert entity (GID = 0x000000020000001c) into model. Failed to get target entity with GID: 0x0000000500000016 for reference SO_OUTAGESCHEDULE on source 0x000000020000001C.
+3.9.2025. 22:49:58 : Error while applying delta (id = 28) during service initialization. Failed to insert entity (GID = 0x000000020000001c) into model. Failed to get target entity with GID: 0x0000000500000016 for reference SO_OUTAGESCHEDULE on source 0x000000020000001C.
+3.9.2025. 22:49:58 : Inserting entity with GID (000000040000002b).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000040000002c).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000040000002d).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000020000001d).
+3.9.2025. 22:49:58 : Failed to insert entity (GID = 0x000000020000001d) into model. Failed to get target entity with GID: 0x0000000500000016 for reference SO_OUTAGESCHEDULE on source 0x000000020000001D.
+3.9.2025. 22:49:58 : Error while applying delta (id = 29) during service initialization. Failed to insert entity (GID = 0x000000020000001d) into model. Failed to get target entity with GID: 0x0000000500000016 for reference SO_OUTAGESCHEDULE on source 0x000000020000001D.
+3.9.2025. 22:49:58 : Inserting entity with GID (000000040000002e).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000040000002f).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000030).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000020000001e).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000020000001f).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000031).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000032).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000033).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000200000020).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000200000021).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000034).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000035).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000036).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000200000022).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000200000023).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000037).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000038).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000039).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000010000000a).
+3.9.2025. 22:49:58 : Failed to insert entity (GID = 0x000000010000000a) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000A.
+3.9.2025. 22:49:58 : Error while applying delta (id = 33) during service initialization. Failed to insert entity (GID = 0x000000010000000a) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000A.
+3.9.2025. 22:49:58 : Inserting entity with GID (000000040000003a).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000040000003b).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000040000003c).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000010000000b).
+3.9.2025. 22:49:58 : Failed to insert entity (GID = 0x000000010000000b) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000B.
+3.9.2025. 22:49:58 : Error while applying delta (id = 34) during service initialization. Failed to insert entity (GID = 0x000000010000000b) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000B.
+3.9.2025. 22:49:58 : Inserting entity with GID (000000040000003d).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000040000003e).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000040000003f).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000010000000c).
+3.9.2025. 22:49:58 : Failed to insert entity (GID = 0x000000010000000c) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000C.
+3.9.2025. 22:49:58 : Error while applying delta (id = 35) during service initialization. Failed to insert entity (GID = 0x000000010000000c) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000C.
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000040).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000041).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000042).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000010000000d).
+3.9.2025. 22:49:58 : Failed to insert entity (GID = 0x000000010000000d) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000D.
+3.9.2025. 22:49:58 : Error while applying delta (id = 36) during service initialization. Failed to insert entity (GID = 0x000000010000000d) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000D.
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000043).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000044).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000045).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000010000000e).
+3.9.2025. 22:49:58 : Failed to insert entity (GID = 0x000000010000000e) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000E.
+3.9.2025. 22:49:58 : Error while applying delta (id = 37) during service initialization. Failed to insert entity (GID = 0x000000010000000e) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000E.
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000046).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000047).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000048).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000010000000f).
+3.9.2025. 22:49:58 : Failed to insert entity (GID = 0x000000010000000f) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000F.
+3.9.2025. 22:49:58 : Error while applying delta (id = 38) during service initialization. Failed to insert entity (GID = 0x000000010000000f) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000F.
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000049).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000040000004a).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000040000004b).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000100000010).
+3.9.2025. 22:49:58 : Failed to insert entity (GID = 0x0000000100000010) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x0000000100000010.
+3.9.2025. 22:49:58 : Error while applying delta (id = 39) during service initialization. Failed to insert entity (GID = 0x0000000100000010) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x0000000100000010.
+3.9.2025. 22:49:58 : Inserting entity with GID (000000040000004c).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000040000004d).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000040000004e).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000100000011).
+3.9.2025. 22:49:58 : Failed to insert entity (GID = 0x0000000100000011) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x0000000100000011.
+3.9.2025. 22:49:58 : Error while applying delta (id = 40) during service initialization. Failed to insert entity (GID = 0x0000000100000011) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x0000000100000011.
+3.9.2025. 22:49:58 : Inserting entity with GID (000000040000004f).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000050).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000051).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000100000012).
+3.9.2025. 22:49:58 : Failed to insert entity (GID = 0x0000000100000012) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x0000000100000012.
+3.9.2025. 22:49:58 : Error while applying delta (id = 41) during service initialization. Failed to insert entity (GID = 0x0000000100000012) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x0000000100000012.
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000052).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000053).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000054).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000500000016).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000100000013).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000100000014).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000200000024).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000200000025).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000055).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000300000016).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000500000017).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000100000015).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000200000026).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000060000000a).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000056).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000300000017).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000500000018).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000100000016).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000200000027).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000060000000b).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000057).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000300000018).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000500000019).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000100000017).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000200000028).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000060000000c).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000400000058).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000300000019).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000050000001a).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000100000018).
+3.9.2025. 22:49:58 : Inserting entity with GID (0000000200000029).
+3.9.2025. 22:49:58 : Inserting entity with GID (000000060000000d).
+3.9.2025. 22:49:58 : The WCF service GenericDataAccess is ready.
+3.9.2025. 22:49:58 : Endpoints:
+3.9.2025. 22:49:58 : net.tcp://localhost:10000/NetworkModelService/GDA/
+3.9.2025. 22:49:58 : Connection string: ../NetworkModelData.data
+3.9.2025. 22:49:58 : Trace level: Info
+3.9.2025. 22:49:58 : The Network Model Service is started.
+3.9.2025. 22:49:58 : Press <Enter> to stop the service.
+3.9.2025. 22:50:03 : The Network Model Service is closed.
+3.9.2025. 22:50:09 : Starting Network Model Serivice...
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000001).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000002).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000003).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000200000001).
+3.9.2025. 22:50:09 : Failed to insert entity (GID = 0x0000000200000001) into model. Failed to get target entity with GID: 0x0000000500000001 for reference SO_OUTAGESCHEDULE on source 0x0000000200000001.
+3.9.2025. 22:50:09 : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000200000001) into model. Failed to get target entity with GID: 0x0000000500000001 for reference SO_OUTAGESCHEDULE on source 0x0000000200000001.
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000004).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000005).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000006).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000200000002).
+3.9.2025. 22:50:09 : Failed to insert entity (GID = 0x0000000200000002) into model. Failed to get target entity with GID: 0x0000000500000001 for reference SO_OUTAGESCHEDULE on source 0x0000000200000002.
+3.9.2025. 22:50:09 : Error while applying delta (id = 2) during service initialization. Failed to insert entity (GID = 0x0000000200000002) into model. Failed to get target entity with GID: 0x0000000500000001 for reference SO_OUTAGESCHEDULE on source 0x0000000200000002.
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000007).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000008).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000009).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000200000003).
+3.9.2025. 22:50:09 : Failed to insert entity (GID = 0x0000000200000003) into model. Failed to get target entity with GID: 0x0000000500000001 for reference SO_OUTAGESCHEDULE on source 0x0000000200000003.
+3.9.2025. 22:50:09 : Error while applying delta (id = 3) during service initialization. Failed to insert entity (GID = 0x0000000200000003) into model. Failed to get target entity with GID: 0x0000000500000001 for reference SO_OUTAGESCHEDULE on source 0x0000000200000003.
+3.9.2025. 22:50:09 : Inserting entity with GID (000000040000000a).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000040000000b).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000040000000c).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000200000004).
+3.9.2025. 22:50:09 : Failed to insert entity (GID = 0x0000000200000004) into model. Failed to get target entity with GID: 0x0000000500000001 for reference SO_OUTAGESCHEDULE on source 0x0000000200000004.
+3.9.2025. 22:50:09 : Error while applying delta (id = 4) during service initialization. Failed to insert entity (GID = 0x0000000200000004) into model. Failed to get target entity with GID: 0x0000000500000001 for reference SO_OUTAGESCHEDULE on source 0x0000000200000004.
+3.9.2025. 22:50:09 : Inserting entity with GID (000000040000000d).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000300000001).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000200000005).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000500000001).
+3.9.2025. 22:50:09 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000001).
+3.9.2025. 22:50:09 : Failed to insert entity (GID = 0x0000000500000001) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000001).
+3.9.2025. 22:50:09 : Error while applying delta (id = 5) during service initialization. Failed to insert entity (GID = 0x0000000500000001) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000001).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000040000000e).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000300000002).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000200000006).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000500000002).
+3.9.2025. 22:50:09 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000002).
+3.9.2025. 22:50:09 : Failed to insert entity (GID = 0x0000000500000002) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000002).
+3.9.2025. 22:50:09 : Error while applying delta (id = 6) during service initialization. Failed to insert entity (GID = 0x0000000500000002) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000002).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000040000000f).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000300000003).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000200000007).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000500000003).
+3.9.2025. 22:50:09 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000003).
+3.9.2025. 22:50:09 : Failed to insert entity (GID = 0x0000000500000003) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000003).
+3.9.2025. 22:50:09 : Error while applying delta (id = 7) during service initialization. Failed to insert entity (GID = 0x0000000500000003) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000003).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000010).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000300000004).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000200000008).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000500000004).
+3.9.2025. 22:50:09 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000004).
+3.9.2025. 22:50:09 : Failed to insert entity (GID = 0x0000000500000004) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000004).
+3.9.2025. 22:50:09 : Error while applying delta (id = 8) during service initialization. Failed to insert entity (GID = 0x0000000500000004) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000004).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000011).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000300000005).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000200000009).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000500000005).
+3.9.2025. 22:50:09 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000005).
+3.9.2025. 22:50:09 : Failed to insert entity (GID = 0x0000000500000005) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000005).
+3.9.2025. 22:50:09 : Error while applying delta (id = 9) during service initialization. Failed to insert entity (GID = 0x0000000500000005) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000005).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000012).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000013).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000014).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000020000000a).
+3.9.2025. 22:50:09 : Failed to insert entity (GID = 0x000000020000000a) into model. Failed to get target entity with GID: 0x0000000500000006 for reference SO_OUTAGESCHEDULE on source 0x000000020000000A.
+3.9.2025. 22:50:09 : Error while applying delta (id = 10) during service initialization. Failed to insert entity (GID = 0x000000020000000a) into model. Failed to get target entity with GID: 0x0000000500000006 for reference SO_OUTAGESCHEDULE on source 0x000000020000000A.
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000015).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000300000006).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000020000000b).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000500000006).
+3.9.2025. 22:50:09 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000006).
+3.9.2025. 22:50:09 : Failed to insert entity (GID = 0x0000000500000006) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000006).
+3.9.2025. 22:50:09 : Error while applying delta (id = 11) during service initialization. Failed to insert entity (GID = 0x0000000500000006) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000006).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000016).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000300000007).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000020000000c).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000500000007).
+3.9.2025. 22:50:09 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000007).
+3.9.2025. 22:50:09 : Failed to insert entity (GID = 0x0000000500000007) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000007).
+3.9.2025. 22:50:09 : Error while applying delta (id = 12) during service initialization. Failed to insert entity (GID = 0x0000000500000007) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000007).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000017).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000300000008).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000020000000d).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000500000008).
+3.9.2025. 22:50:09 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000008).
+3.9.2025. 22:50:09 : Failed to insert entity (GID = 0x0000000500000008) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000008).
+3.9.2025. 22:50:09 : Error while applying delta (id = 13) during service initialization. Failed to insert entity (GID = 0x0000000500000008) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000008).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000018).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000300000009).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000020000000e).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000500000009).
+3.9.2025. 22:50:09 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000009).
+3.9.2025. 22:50:09 : Failed to insert entity (GID = 0x0000000500000009) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000009).
+3.9.2025. 22:50:09 : Error while applying delta (id = 14) during service initialization. Failed to insert entity (GID = 0x0000000500000009) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x0000000500000009).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000019).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000030000000a).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000020000000f).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000050000000a).
+3.9.2025. 22:50:09 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000a).
+3.9.2025. 22:50:09 : Failed to insert entity (GID = 0x000000050000000a) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000a).
+3.9.2025. 22:50:09 : Error while applying delta (id = 15) during service initialization. Failed to insert entity (GID = 0x000000050000000a) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000a).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000040000001a).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000030000000b).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000200000010).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000050000000b).
+3.9.2025. 22:50:09 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000b).
+3.9.2025. 22:50:09 : Failed to insert entity (GID = 0x000000050000000b) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000b).
+3.9.2025. 22:50:09 : Error while applying delta (id = 16) during service initialization. Failed to insert entity (GID = 0x000000050000000b) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000b).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000040000001b).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000030000000c).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000200000011).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000050000000c).
+3.9.2025. 22:50:09 : Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000c).
+3.9.2025. 22:50:09 : Failed to insert entity (GID = 0x000000050000000c) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000c).
+3.9.2025. 22:50:09 : Error while applying delta (id = 17) during service initialization. Failed to insert entity (GID = 0x000000050000000c) into model. Unknown property id = IISCHEDULE_TIMEPOINTS for entity (GID = 0x000000050000000c).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000040000001c).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000030000000d).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000200000012).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000050000000d).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000100000001).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000600000001).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000040000001d).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000030000000e).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000200000013).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000050000000e).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000100000002).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000600000002).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000040000001e).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000030000000f).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000200000014).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000050000000f).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000100000003).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000600000003).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000040000001f).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000300000010).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000200000015).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000500000010).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000100000004).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000600000004).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000020).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000300000011).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000200000016).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000500000011).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000100000005).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000600000005).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000021).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000300000012).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000200000017).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000500000012).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000100000006).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000600000006).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000022).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000300000013).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000200000018).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000500000013).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000100000007).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000600000007).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000023).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000300000014).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000200000019).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000500000014).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000100000008).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000600000008).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000024).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000300000015).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000020000001a).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000500000015).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000100000009).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000600000009).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000025).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000026).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000027).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000020000001b).
+3.9.2025. 22:50:09 : Failed to insert entity (GID = 0x000000020000001b) into model. Failed to get target entity with GID: 0x0000000500000016 for reference SO_OUTAGESCHEDULE on source 0x000000020000001B.
+3.9.2025. 22:50:09 : Error while applying delta (id = 27) during service initialization. Failed to insert entity (GID = 0x000000020000001b) into model. Failed to get target entity with GID: 0x0000000500000016 for reference SO_OUTAGESCHEDULE on source 0x000000020000001B.
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000028).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000029).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000040000002a).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000020000001c).
+3.9.2025. 22:50:09 : Failed to insert entity (GID = 0x000000020000001c) into model. Failed to get target entity with GID: 0x0000000500000016 for reference SO_OUTAGESCHEDULE on source 0x000000020000001C.
+3.9.2025. 22:50:09 : Error while applying delta (id = 28) during service initialization. Failed to insert entity (GID = 0x000000020000001c) into model. Failed to get target entity with GID: 0x0000000500000016 for reference SO_OUTAGESCHEDULE on source 0x000000020000001C.
+3.9.2025. 22:50:09 : Inserting entity with GID (000000040000002b).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000040000002c).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000040000002d).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000020000001d).
+3.9.2025. 22:50:09 : Failed to insert entity (GID = 0x000000020000001d) into model. Failed to get target entity with GID: 0x0000000500000016 for reference SO_OUTAGESCHEDULE on source 0x000000020000001D.
+3.9.2025. 22:50:09 : Error while applying delta (id = 29) during service initialization. Failed to insert entity (GID = 0x000000020000001d) into model. Failed to get target entity with GID: 0x0000000500000016 for reference SO_OUTAGESCHEDULE on source 0x000000020000001D.
+3.9.2025. 22:50:09 : Inserting entity with GID (000000040000002e).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000040000002f).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000030).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000020000001e).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000020000001f).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000031).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000032).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000033).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000200000020).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000200000021).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000034).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000035).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000036).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000200000022).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000200000023).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000037).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000038).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000039).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000010000000a).
+3.9.2025. 22:50:09 : Failed to insert entity (GID = 0x000000010000000a) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000A.
+3.9.2025. 22:50:09 : Error while applying delta (id = 33) during service initialization. Failed to insert entity (GID = 0x000000010000000a) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000A.
+3.9.2025. 22:50:09 : Inserting entity with GID (000000040000003a).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000040000003b).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000040000003c).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000010000000b).
+3.9.2025. 22:50:09 : Failed to insert entity (GID = 0x000000010000000b) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000B.
+3.9.2025. 22:50:09 : Error while applying delta (id = 34) during service initialization. Failed to insert entity (GID = 0x000000010000000b) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000B.
+3.9.2025. 22:50:09 : Inserting entity with GID (000000040000003d).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000040000003e).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000040000003f).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000010000000c).
+3.9.2025. 22:50:09 : Failed to insert entity (GID = 0x000000010000000c) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000C.
+3.9.2025. 22:50:09 : Error while applying delta (id = 35) during service initialization. Failed to insert entity (GID = 0x000000010000000c) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000C.
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000040).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000041).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000042).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000010000000d).
+3.9.2025. 22:50:09 : Failed to insert entity (GID = 0x000000010000000d) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000D.
+3.9.2025. 22:50:09 : Error while applying delta (id = 36) during service initialization. Failed to insert entity (GID = 0x000000010000000d) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000D.
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000043).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000044).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000045).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000010000000e).
+3.9.2025. 22:50:09 : Failed to insert entity (GID = 0x000000010000000e) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000E.
+3.9.2025. 22:50:09 : Error while applying delta (id = 37) during service initialization. Failed to insert entity (GID = 0x000000010000000e) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000E.
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000046).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000047).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000048).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000010000000f).
+3.9.2025. 22:50:09 : Failed to insert entity (GID = 0x000000010000000f) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000F.
+3.9.2025. 22:50:09 : Error while applying delta (id = 38) during service initialization. Failed to insert entity (GID = 0x000000010000000f) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x000000010000000F.
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000049).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000040000004a).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000040000004b).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000100000010).
+3.9.2025. 22:50:09 : Failed to insert entity (GID = 0x0000000100000010) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x0000000100000010.
+3.9.2025. 22:50:09 : Error while applying delta (id = 39) during service initialization. Failed to insert entity (GID = 0x0000000100000010) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x0000000100000010.
+3.9.2025. 22:50:09 : Inserting entity with GID (000000040000004c).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000040000004d).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000040000004e).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000100000011).
+3.9.2025. 22:50:09 : Failed to insert entity (GID = 0x0000000100000011) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x0000000100000011.
+3.9.2025. 22:50:09 : Error while applying delta (id = 40) during service initialization. Failed to insert entity (GID = 0x0000000100000011) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x0000000100000011.
+3.9.2025. 22:50:09 : Inserting entity with GID (000000040000004f).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000050).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000051).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000100000012).
+3.9.2025. 22:50:09 : Failed to insert entity (GID = 0x0000000100000012) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x0000000100000012.
+3.9.2025. 22:50:09 : Error while applying delta (id = 41) during service initialization. Failed to insert entity (GID = 0x0000000100000012) into model. Failed to get target entity with GID: 0x0000000500000016 for reference ITP_INTERVALSCHEDULE on source 0x0000000100000012.
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000052).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000053).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000054).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000500000016).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000100000013).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000100000014).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000200000024).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000200000025).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000055).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000300000016).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000500000017).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000100000015).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000200000026).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000060000000a).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000056).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000300000017).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000500000018).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000100000016).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000200000027).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000060000000b).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000057).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000300000018).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000500000019).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000100000017).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000200000028).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000060000000c).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000400000058).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000300000019).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000050000001a).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000100000018).
+3.9.2025. 22:50:09 : Inserting entity with GID (0000000200000029).
+3.9.2025. 22:50:09 : Inserting entity with GID (000000060000000d).
+3.9.2025. 22:50:09 : The WCF service GenericDataAccess is ready.
+3.9.2025. 22:50:09 : Endpoints:
+3.9.2025. 22:50:09 : net.tcp://localhost:10000/NetworkModelService/GDA/
+3.9.2025. 22:50:09 : Connection string: ../NetworkModelData.data
+3.9.2025. 22:50:09 : Trace level: Info
+3.9.2025. 22:50:09 : The Network Model Service is started.
+3.9.2025. 22:50:09 : Press <Enter> to stop the service.
+4.9.2025. 02:12:18 : Starting Network Model Serivice...
+4.9.2025. 02:12:19 : The WCF service GenericDataAccess is ready.
+4.9.2025. 02:12:19 : Endpoints:
+4.9.2025. 02:12:19 : net.tcp://localhost:10000/NetworkModelService/GDA/
+4.9.2025. 02:12:19 : Connection string: ../NetworkModelData.data
+4.9.2025. 02:12:19 : Trace level: Info
+4.9.2025. 02:12:19 : The Network Model Service is started.
+4.9.2025. 02:12:19 : Press <Enter> to stop the service.
+4.9.2025. 02:12:58 : Applying  delta to network model.
+4.9.2025. 02:12:58 : Inserting entity with GID (0000000400000001).
+4.9.2025. 02:12:58 : Inserting entity with GID (0000000400000002).
+4.9.2025. 02:12:58 : Inserting entity with GID (0000000400000003).
+4.9.2025. 02:12:58 : Inserting entity with GID (0000000500000001).
+4.9.2025. 02:12:58 : Inserting entity with GID (0000000100000001).
+4.9.2025. 02:12:58 : Inserting entity with GID (0000000100000002).
+4.9.2025. 02:12:58 : Inserting entity with GID (0000000200000001).
+4.9.2025. 02:12:58 : Inserting entity with GID (0000000200000002).
+4.9.2025. 02:12:58 : Applying delta to network model successfully finished.
+4.9.2025. 02:15:57 : Failed to set value for property (IISCHEDULE_TIMEPOINTS) because specified vector value is not compatible with property type (Reference).
+4.9.2025. 02:15:57 : Failed to get related values for source GID = 0x0000000500000001. Failed to set value for property (IISCHEDULE_TIMEPOINTS) because specified vector value is not compatible with property type (Reference)..
+4.9.2025. 02:15:57 : Getting related values for resource with ID = 0x0000000500000001 failed. Failed to get related values for source GID = 0x0000000500000001. Failed to set value for property (IISCHEDULE_TIMEPOINTS) because specified vector value is not compatible with property type (Reference)..
+4.9.2025. 02:17:08 : Starting Network Model Serivice...
+4.9.2025. 02:17:08 : Inserting entity with GID (0000000400000001).
+4.9.2025. 02:17:08 : Inserting entity with GID (0000000400000002).
+4.9.2025. 02:17:08 : Inserting entity with GID (0000000400000003).
+4.9.2025. 02:17:08 : Inserting entity with GID (0000000500000001).
+4.9.2025. 02:17:08 : Inserting entity with GID (0000000100000001).
+4.9.2025. 02:17:08 : Inserting entity with GID (0000000100000002).
+4.9.2025. 02:17:08 : Inserting entity with GID (0000000200000001).
+4.9.2025. 02:17:08 : Inserting entity with GID (0000000200000002).
+4.9.2025. 02:17:08 : The WCF service GenericDataAccess is ready.
+4.9.2025. 02:17:08 : Endpoints:
+4.9.2025. 02:17:08 : net.tcp://localhost:10000/NetworkModelService/GDA/
+4.9.2025. 02:17:08 : Connection string: ../NetworkModelData.data
+4.9.2025. 02:17:08 : Trace level: Info
+4.9.2025. 02:17:08 : The Network Model Service is started.
+4.9.2025. 02:17:08 : Press <Enter> to stop the service.
+4.9.2025. 02:29:08 : Starting Network Model Serivice...
+4.9.2025. 02:29:08 : Inserting entity with GID (0000000400000001).
+4.9.2025. 02:29:08 : Inserting entity with GID (0000000400000002).
+4.9.2025. 02:29:08 : Inserting entity with GID (0000000400000003).
+4.9.2025. 02:29:08 : Inserting entity with GID (0000000500000001).
+4.9.2025. 02:29:08 : Inserting entity with GID (0000000100000001).
+4.9.2025. 02:29:08 : Inserting entity with GID (0000000100000002).
+4.9.2025. 02:29:08 : Inserting entity with GID (0000000200000001).
+4.9.2025. 02:29:08 : Inserting entity with GID (0000000200000002).
+4.9.2025. 02:29:08 : The WCF service GenericDataAccess is ready.
+4.9.2025. 02:29:08 : Endpoints:
+4.9.2025. 02:29:08 : net.tcp://localhost:10000/NetworkModelService/GDA/
+4.9.2025. 02:29:08 : Connection string: ../NetworkModelData.data
+4.9.2025. 02:29:08 : Trace level: Info
+4.9.2025. 02:29:08 : The Network Model Service is started.
+4.9.2025. 02:29:08 : Press <Enter> to stop the service.
+4.9.2025. 02:34:36 : Starting Network Model Serivice...
+4.9.2025. 02:34:36 : Inserting entity with GID (0000000400000001).
+4.9.2025. 02:34:36 : Inserting entity with GID (0000000400000002).
+4.9.2025. 02:34:36 : Inserting entity with GID (0000000400000003).
+4.9.2025. 02:34:36 : Inserting entity with GID (0000000500000001).
+4.9.2025. 02:34:36 : Inserting entity with GID (0000000100000001).
+4.9.2025. 02:34:36 : Inserting entity with GID (0000000100000002).
+4.9.2025. 02:34:36 : Inserting entity with GID (0000000200000001).
+4.9.2025. 02:34:36 : Inserting entity with GID (0000000200000002).
+4.9.2025. 02:34:36 : The WCF service GenericDataAccess is ready.
+4.9.2025. 02:34:36 : Endpoints:
+4.9.2025. 02:34:36 : net.tcp://localhost:10000/NetworkModelService/GDA/
+4.9.2025. 02:34:36 : Connection string: ../NetworkModelData.data
+4.9.2025. 02:34:36 : Trace level: Info
+4.9.2025. 02:34:36 : The Network Model Service is started.
+4.9.2025. 02:34:36 : Press <Enter> to stop the service.
+4.9.2025. 03:43:20 : Starting Network Model Serivice...
+4.9.2025. 03:43:20 : Inserting entity with GID (0000000400000001).
+4.9.2025. 03:43:20 : Inserting entity with GID (0000000400000002).
+4.9.2025. 03:43:20 : Inserting entity with GID (0000000400000003).
+4.9.2025. 03:43:20 : Inserting entity with GID (0000000500000001).
+4.9.2025. 03:43:20 : Inserting entity with GID (0000000100000001).
+4.9.2025. 03:43:20 : Inserting entity with GID (0000000100000002).
+4.9.2025. 03:43:20 : Inserting entity with GID (0000000200000001).
+4.9.2025. 03:43:20 : Inserting entity with GID (0000000200000002).
+4.9.2025. 03:43:20 : The WCF service GenericDataAccess is ready.
+4.9.2025. 03:43:20 : Endpoints:
+4.9.2025. 03:43:20 : net.tcp://localhost:10000/NetworkModelService/GDA/
+4.9.2025. 03:43:20 : Connection string: ../NetworkModelData.data
+4.9.2025. 03:43:20 : Trace level: Info
+4.9.2025. 03:43:20 : The Network Model Service is started.
+4.9.2025. 03:43:20 : Press <Enter> to stop the service.

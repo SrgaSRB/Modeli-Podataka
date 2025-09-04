@@ -24,7 +24,6 @@ namespace GUI
         private readonly ModelResourcesDesc _mrd = new ModelResourcesDesc();
         private GdaService _gda;
 
-        // cache za sve GID-ove radi popunjavanja combo-ova
         private readonly List<long> _allGids = new List<long>();
 
         public MainWindow()
@@ -49,7 +48,7 @@ namespace GUI
                         var mc = _mrd.GetModelCodeFromType(t);
                         ExtentModelCode.Items.Add(mc);
                     }
-                    catch { /* neki DMSType nema direktan ModelCode (ako MRD ne mapira) */ }
+                    catch { /* TO DO */ }
                 }
 
                 // 2) Učitaj sve GID-ove u Values i Related tabu (radi komfora)
@@ -79,10 +78,19 @@ namespace GUI
             // Za svaki entity tip, pokupi GID-ove
             foreach (DMSType t in Enum.GetValues(typeof(DMSType)))
             {
-                if (t == DMSType.MASK_TYPE) continue;
+                if (t == DMSType.MASK_TYPE) 
+                    continue;
+
                 ModelCode mc;
-                try { mc = _mrd.GetModelCodeFromType(t); }
-                catch { continue; }
+
+                try 
+                { 
+                    mc = _mrd.GetModelCodeFromType(t); 
+                }
+                catch 
+                { 
+                    continue; 
+                }
 
                 var ids = await Task.Run(() => _gda.GetExtentIds(mc));
                 foreach (var id in ids)
@@ -95,9 +103,7 @@ namespace GUI
             }
         }
 
-        // =======================
         // EXTENT
-        // =======================
         private void ExtentModelCode_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             ExtentPropsPanel.Children.Clear();
@@ -139,9 +145,7 @@ namespace GUI
             }
         }
 
-        // =======================
         // VALUES
-        // =======================
         private void ValuesGid_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             ValuesPropsPanel.Children.Clear();
@@ -182,9 +186,7 @@ namespace GUI
             }
         }
 
-        // =======================
         // RELATED
-        // =======================
         private void RelatedSourceGid_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             RelatedProperty.Items.Clear();
@@ -197,7 +199,7 @@ namespace GUI
             var t = (DMSType)ModelCodeHelper.ExtractTypeFromGlobalId(gid);
             var props = _mrd.GetAllPropertyIds(t);
 
-            // ponudi SAMO reference / refVector propertije kao asocijaciju
+            // SAMO reference / refVector propertije kao asocijaciju
             foreach (var p in props)
             {
                 var prop = new Property(p);
@@ -205,6 +207,13 @@ namespace GUI
                 {
                     RelatedProperty.Items.Add(p);
                 }
+            }
+
+            //Add props as cb
+            foreach (var p in props)
+            {
+                var cb = new CheckBox { Content = p.ToString(), Tag = p, Margin = new Thickness(0, 2, 0, 2) };
+                RelatedPropsPanel.Children.Add(cb);
             }
 
             // opcioni TYPE filter: dozvoli sve tipove
@@ -225,7 +234,7 @@ namespace GUI
                 return;
             }
 
-            var targetType = (RelatedType.SelectedItem is ModelCode mcType) ? mcType : 0; // 0 = bez filtera
+            var targetType = (RelatedType.SelectedItem is ModelCode mcType) ? mcType : 0; // 0 -> bez filtera
             var selectedProps = GetCheckedProperties(RelatedPropsPanel);
             if (selectedProps.Count == 0)
             {
@@ -310,5 +319,6 @@ namespace GUI
             }
             return sb.ToString();
         }
+
     }
 }

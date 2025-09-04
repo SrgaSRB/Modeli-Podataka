@@ -36,7 +36,7 @@ namespace GUI
         {
             var ids = new List<long>();
             var mrd = new ModelResourcesDesc();
-            var props = new List<ModelCode> { ModelCode.IDOBJ_GID }; // minimalno
+            var props = new List<ModelCode> { ModelCode.IDOBJ_GID }; // min
 
             int it = proxy.GetExtentValues(mc, props);
             int left = proxy.IteratorResourcesLeft(it);

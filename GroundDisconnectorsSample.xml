@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:msg="http://langdale.com.au/2005/Message#"
+  xmlns:cims="http://iec.ch/TC57/1999/rdf-schema-extensions-19990926#"
+  xmlns:j.0="http://iec.ch/TC57/CIM101#"
+  xmlns:uml="http://langdale.com.au/2005/UML#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xml:base="http://iec.ch/TC57/CIM101"
+  xmlns:cim="http://iec.ch/TC57/CIM101#">
+
+  <!-- ================================ -->
+  <!-- 1)  Curve (3 примера)           -->
+  <!-- ================================ -->
+  <cim:Curve rdf:ID="CUR1">
+    <cim:Curve.curveStyle rdf:resource="#CurveStyle.constantYValue" />
+    <cim:Curve.xMultiplier rdf:resource="#UnitMultiplier.none" />
+    <cim:Curve.xUnit rdf:resource="#UnitSymbol.V" />
+    <cim:Curve.y1Multiplier rdf:resource="#UnitMultiplier.none" />
+    <cim:Curve.y1Unit rdf:resource="#UnitSymbol.V" />
+    <cim:Curve.y2Multiplier rdf:resource="#UnitMultiplier.k" />
+    <cim:Curve.y2Unit rdf:resource="#UnitSymbol.A" />
+    <cim:Curve.y3Multiplier rdf:resource="#UnitMultiplier.m" />
+    <cim:Curve.y3Unit rdf:resource="#UnitSymbol.none" />
+    <cim:IdentifiedObject.aliasName>Volt-Var Const</cim:IdentifiedObject.aliasName>
+    <cim:IdentifiedObject.mRID>CUR1</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>Volt-Var Constant</cim:IdentifiedObject.name>
+  </cim:Curve>
+
+  <cim:Curve rdf:ID="CUR2">
+    <cim:Curve.curveStyle rdf:resource="#CurveStyle.formula" />
+    <cim:Curve.xMultiplier rdf:resource="#UnitMultiplier.k" />
+    <cim:Curve.xUnit rdf:resource="#UnitSymbol.Hz" />
+    <cim:Curve.y1Multiplier rdf:resource="#UnitMultiplier.none" />
+    <cim:Curve.y1Unit rdf:resource="#UnitSymbol.A" />
+    <cim:Curve.y2Multiplier rdf:resource="#UnitMultiplier.none" />
+    <cim:Curve.y2Unit rdf:resource="#UnitSymbol.none" />
+    <cim:Curve.y3Multiplier rdf:resource="#UnitMultiplier.none" />
+    <cim:Curve.y3Unit rdf:resource="#UnitSymbol.none" />
+    <cim:IdentifiedObject.aliasName>Freq-Resp</cim:IdentifiedObject.aliasName>
+    <cim:IdentifiedObject.mRID>CUR2</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>Frequency Response</cim:IdentifiedObject.name>
+  </cim:Curve>
+
+  <cim:Curve rdf:ID="CUR3">
+    <cim:Curve.curveStyle rdf:resource="#CurveStyle.straightLineYValues" />
+    <cim:Curve.xMultiplier rdf:resource="#UnitMultiplier.none" />
+    <cim:Curve.xUnit rdf:resource="#UnitSymbol.s" />
+    <cim:Curve.y1Multiplier rdf:resource="#UnitMultiplier.none" />
+    <cim:Curve.y1Unit rdf:resource="#UnitSymbol.W" />
+    <cim:Curve.y2Multiplier rdf:resource="#UnitMultiplier.none" />
+    <cim:Curve.y2Unit rdf:resource="#UnitSymbol.none" />
+    <cim:Curve.y3Multiplier rdf:resource="#UnitMultiplier.none" />
+    <cim:Curve.y3Unit rdf:resource="#UnitSymbol.none" />
+    <cim:IdentifiedObject.aliasName>Time-Power</cim:IdentifiedObject.aliasName>
+    <cim:IdentifiedObject.mRID>CUR3</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>Time-Power Curve</cim:IdentifiedObject.name>
+  </cim:Curve>
+
+
+  <!-- ========================================= -->
+  <!-- 2)  OutageSchedule + IrregularTimePoint (2) -->
+  <!-- ========================================= -->
+
+  <cim:OutageSchedule rdf:ID="OUT1">
+    <cim:BasicIntervalSchedule.startTime>2025-06-01T08:00:00Z</cim:BasicIntervalSchedule.startTime>
+    <cim:BasicIntervalSchedule.value1Multiplier>none</cim:BasicIntervalSchedule.value1Multiplier>
+    <cim:BasicIntervalSchedule.value1Unit>none</cim:BasicIntervalSchedule.value1Unit>
+    <cim:BasicIntervalSchedule.value2Multiplier>none</cim:BasicIntervalSchedule.value2Multiplier>
+    <cim:BasicIntervalSchedule.value2Unit>none</cim:BasicIntervalSchedule.value2Unit>
+    <cim:IdentifiedObject.aliasName>Transformer Maint.</cim:IdentifiedObject.aliasName>
+    <cim:IdentifiedObject.mRID>OUT1</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>Transf-Outage</cim:IdentifiedObject.name>
+  </cim:OutageSchedule>
+
+  <cim:IrregularTimePoint rdf:ID="TP1">
+    <cim:IrregularTimePoint.IntervalSchedule rdf:resource="#OUT1" />
+    <cim:IrregularTimePoint.time>3600</cim:IrregularTimePoint.time>
+    <cim:IrregularTimePoint.value1>0.80</cim:IrregularTimePoint.value1>
+    <cim:IrregularTimePoint.value2>0.00</cim:IrregularTimePoint.value2>
+    <cim:IdentifiedObject.aliasName>Hour-1</cim:IdentifiedObject.aliasName>
+    <cim:IdentifiedObject.mRID>TP1</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>Point-1</cim:IdentifiedObject.name>
+  </cim:IrregularTimePoint>
+
+  <cim:IrregularTimePoint rdf:ID="TP2">
+    <cim:IrregularTimePoint.IntervalSchedule rdf:resource="#OUT1" />
+    <cim:IrregularTimePoint.time>7200</cim:IrregularTimePoint.time>
+    <cim:IrregularTimePoint.value1>0.50</cim:IrregularTimePoint.value1>
+    <cim:IrregularTimePoint.value2>0.00</cim:IrregularTimePoint.value2>
+    <cim:IdentifiedObject.aliasName>Hour-2</cim:IdentifiedObject.aliasName>
+    <cim:IdentifiedObject.mRID>TP2</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>Point-2</cim:IdentifiedObject.name>
+  </cim:IrregularTimePoint>
+
+
+  <!-- ========================================= -->
+  <!-- 3)  SwitchingOperation (2 примера)         -->
+  <!-- ========================================= -->
+  <cim:SwitchingOperation rdf:ID="SO1">
+    <cim:SwitchingOperation.newState>open</cim:SwitchingOperation.newState>
+    <cim:SwitchingOperation.operationTime>2025-06-01T10:00:00Z</cim:SwitchingOperation.operationTime>
+    <cim:SwitchingOperation.OutageSchedule rdf:resource="#OUT1" />
+    <cim:IdentifiedObject.aliasName>Op-Switch</cim:IdentifiedObject.aliasName>
+    <cim:IdentifiedObject.mRID>SO1</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>Open-Switch</cim:IdentifiedObject.name>
+  </cim:SwitchingOperation>
+
+  <cim:SwitchingOperation rdf:ID="SO2">
+    <cim:SwitchingOperation.newState>close</cim:SwitchingOperation.newState>
+    <cim:SwitchingOperation.operationTime>2025-06-01T12:00:00Z</cim:SwitchingOperation.operationTime>
+    <cim:SwitchingOperation.OutageSchedule rdf:resource="#OUT1" />
+    <cim:IdentifiedObject.aliasName>Cl-Switch</cim:IdentifiedObject.aliasName>
+    <cim:IdentifiedObject.mRID>SO2</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>Close-Switch</cim:IdentifiedObject.name>
+  </cim:SwitchingOperation>
+
+
+</rdf:RDF>
